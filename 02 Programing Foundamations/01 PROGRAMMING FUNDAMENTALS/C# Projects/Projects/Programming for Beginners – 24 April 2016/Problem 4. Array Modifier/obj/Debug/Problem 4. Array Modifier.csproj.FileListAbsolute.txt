@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 4. Array Modifier\bin\Debug\Problem_4.Array_Modifier.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 4. Array Modifier\bin\Debug\Problem_4.Array_Modifier.exe
+c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 4. Array Modifier\bin\Debug\Problem_4.Array_Modifier.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 4. Array Modifier\obj\Debug\Problem_4.Array_Modifier.exe
+c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 4. Array Modifier\obj\Debug\Problem_4.Array_Modifier.pdb
