@@ -1,0 +1,10 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\bin\Debug\_4.Define_Person_Class.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\bin\Debug\_4.Define_Person_Class.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\bin\Debug\_4.Define_Person_Class.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\bin\Debug\_1.Define_Bank_Account_Class.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\bin\Debug\_1.Define_Bank_Account_Class.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\bin\Debug\_1.Define_Bank_Account_Class.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\obj\Debug\4. Define Person Class.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\obj\Debug\4. Define Person Class.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\obj\Debug\_4.Define_Person_Class.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\4. Define Person Class\obj\Debug\_4.Define_Person_Class.pdb

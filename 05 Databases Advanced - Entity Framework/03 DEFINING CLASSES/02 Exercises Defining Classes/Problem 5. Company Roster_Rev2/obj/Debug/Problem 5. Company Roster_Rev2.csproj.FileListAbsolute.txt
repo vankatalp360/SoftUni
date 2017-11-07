@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\bin\Debug\Problem_5.Company_Roster_Rev2.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\bin\Debug\Problem_5.Company_Roster_Rev2.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\bin\Debug\Problem_5.Company_Roster_Rev2.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\obj\Debug\Problem 5. Company Roster_Rev2.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\obj\Debug\Problem 5. Company Roster_Rev2.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\obj\Debug\Problem_5.Company_Roster_Rev2.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 5. Company Roster_Rev2\obj\Debug\Problem_5.Company_Roster_Rev2.pdb

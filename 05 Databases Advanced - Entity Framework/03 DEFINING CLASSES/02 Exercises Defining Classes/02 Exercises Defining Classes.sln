@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Define a class Person", "Problem 1. Define a class Person\Problem 1. Define a class Person.csproj", "{08A056BA-CD8F-4DD7-879E-0E18333DE91A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Creating Constructors", "Problem 2. Creating Constructors\Problem 2. Creating Constructors.csproj", "{92C93C4E-D753-41CF-A371-4412F972A57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Opinion Poll", "Problem 3. Opinion Poll\Problem 3. Opinion Poll.csproj", "{41E6024A-3E4A-4428-B2C8-A23C04C0A36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Speed Racing", "Problem 4. Speed Racing\Problem 4. Speed Racing.csproj", "{DA05B186-06EF-4F9E-9227-8776836FF726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Company Roster", "Problem 5. Company Roster\Problem 5. Company Roster.csproj", "{C62B608C-53AE-4437-8341-C6B43961D9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Company Roster_Rev2", "Problem 5. Company Roster_Rev2\Problem 5. Company Roster_Rev2.csproj", "{0AB70A19-B04E-482F-AFB8-12944714EC0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A056BA-CD8F-4DD7-879E-0E18333DE91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A056BA-CD8F-4DD7-879E-0E18333DE91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A056BA-CD8F-4DD7-879E-0E18333DE91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A056BA-CD8F-4DD7-879E-0E18333DE91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C93C4E-D753-41CF-A371-4412F972A57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C93C4E-D753-41CF-A371-4412F972A57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C93C4E-D753-41CF-A371-4412F972A57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C93C4E-D753-41CF-A371-4412F972A57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E6024A-3E4A-4428-B2C8-A23C04C0A36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E6024A-3E4A-4428-B2C8-A23C04C0A36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E6024A-3E4A-4428-B2C8-A23C04C0A36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E6024A-3E4A-4428-B2C8-A23C04C0A36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA05B186-06EF-4F9E-9227-8776836FF726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA05B186-06EF-4F9E-9227-8776836FF726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA05B186-06EF-4F9E-9227-8776836FF726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA05B186-06EF-4F9E-9227-8776836FF726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62B608C-53AE-4437-8341-C6B43961D9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62B608C-53AE-4437-8341-C6B43961D9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62B608C-53AE-4437-8341-C6B43961D9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62B608C-53AE-4437-8341-C6B43961D9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB70A19-B04E-482F-AFB8-12944714EC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB70A19-B04E-482F-AFB8-12944714EC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB70A19-B04E-482F-AFB8-12944714EC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB70A19-B04E-482F-AFB8-12944714EC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0138F34-191A-4BC8-B888-4DF96F0B45E8}
+	EndGlobalSection
+EndGlobal

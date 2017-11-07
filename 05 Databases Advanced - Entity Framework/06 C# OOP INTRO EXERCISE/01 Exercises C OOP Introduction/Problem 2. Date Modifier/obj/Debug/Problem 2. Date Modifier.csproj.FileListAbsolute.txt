@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\bin\Debug\Problem_2.Date_Modifier.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\bin\Debug\Problem_2.Date_Modifier.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\bin\Debug\Problem_2.Date_Modifier.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\obj\Debug\Problem 2. Date Modifier.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\obj\Debug\Problem 2. Date Modifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\obj\Debug\Problem_2.Date_Modifier.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 2. Date Modifier\obj\Debug\Problem_2.Date_Modifier.pdb

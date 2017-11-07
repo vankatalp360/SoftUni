@@ -1,0 +1,6 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\1. Single Inheritance\bin\Debug\_1.Single_Inheritance.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\1. Single Inheritance\bin\Debug\_1.Single_Inheritance.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\1. Single Inheritance\bin\Debug\_1.Single_Inheritance.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\1. Single Inheritance\obj\Debug\1. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\1. Single Inheritance\obj\Debug\_1.Single_Inheritance.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\1. Single Inheritance\obj\Debug\_1.Single_Inheritance.pdb

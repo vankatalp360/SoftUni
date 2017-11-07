@@ -1,0 +1,11 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\bin\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\bin\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\bin\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\bin\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\bin\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\obj\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\obj\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\obj\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\obj\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\obj\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\09 INTRODUCTION TO ENTITYFRAMEWORK\01 DB FirstDemoSqlClient\01 DB FirstDemoSqlClient\obj\Debug\netcoreapp2.0\01 DB FirstDemoSqlClient.pdb

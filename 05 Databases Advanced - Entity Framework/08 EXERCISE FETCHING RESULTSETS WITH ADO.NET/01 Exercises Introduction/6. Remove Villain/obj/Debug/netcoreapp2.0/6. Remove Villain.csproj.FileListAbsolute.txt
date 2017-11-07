@@ -1,0 +1,11 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\bin\Debug\netcoreapp2.0\6. Remove Villain.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\bin\Debug\netcoreapp2.0\6. Remove Villain.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\bin\Debug\netcoreapp2.0\6. Remove Villain.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\bin\Debug\netcoreapp2.0\6. Remove Villain.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\obj\Debug\netcoreapp2.0\6. Remove Villain.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\obj\Debug\netcoreapp2.0\6. Remove Villain.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\obj\Debug\netcoreapp2.0\6. Remove Villain.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\obj\Debug\netcoreapp2.0\6. Remove Villain.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\bin\Debug\netcoreapp2.0\6. Remove Villain.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\obj\Debug\netcoreapp2.0\6. Remove Villain.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\6. Remove Villain\obj\Debug\netcoreapp2.0\6. Remove Villain.pdb

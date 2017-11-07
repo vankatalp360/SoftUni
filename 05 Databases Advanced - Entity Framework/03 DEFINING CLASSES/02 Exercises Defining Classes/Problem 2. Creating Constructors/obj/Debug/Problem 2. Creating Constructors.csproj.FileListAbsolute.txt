@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem 2. Creating Constructors.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem 2. Creating Constructors.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.pdb

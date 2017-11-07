@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\bin\Debug\Problem_6.Online_Radio_Database.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\bin\Debug\Problem_6.Online_Radio_Database.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\bin\Debug\Problem_6.Online_Radio_Database.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\obj\Debug\Problem 6. Online Radio Database.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\obj\Debug\Problem 6. Online Radio Database.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\obj\Debug\Problem_6.Online_Radio_Database.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 6. Online Radio Database\obj\Debug\Problem_6.Online_Radio_Database.pdb

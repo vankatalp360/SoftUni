@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\bin\Debug\Problem_3.Opinion_Poll.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\bin\Debug\Problem_3.Opinion_Poll.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\bin\Debug\Problem_3.Opinion_Poll.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\obj\Debug\Problem 3. Opinion Poll.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\obj\Debug\Problem 3. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\obj\Debug\Problem_3.Opinion_Poll.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 3. Opinion Poll\obj\Debug\Problem_3.Opinion_Poll.pdb

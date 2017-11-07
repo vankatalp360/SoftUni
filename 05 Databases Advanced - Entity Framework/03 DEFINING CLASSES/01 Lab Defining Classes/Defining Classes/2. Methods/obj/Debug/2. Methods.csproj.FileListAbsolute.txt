@@ -1,0 +1,10 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\bin\Debug\_2.Methods.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\bin\Debug\_2.Methods.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\bin\Debug\_2.Methods.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\obj\Debug\2. Methods.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\obj\Debug\_2.Methods.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\obj\Debug\_2.Methods.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\obj\Debug\2. Methods.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\bin\Debug\_1.Define_Bank_Account_Class.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\bin\Debug\_1.Define_Bank_Account_Class.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\01 Lab Defining Classes\Defining Classes\2. Methods\bin\Debug\_1.Define_Bank_Account_Class.exe.config

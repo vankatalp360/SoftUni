@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\bin\Debug\Problem_4.Pizza_Calories.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\bin\Debug\Problem_4.Pizza_Calories.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\bin\Debug\Problem_4.Pizza_Calories.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\obj\Debug\Problem 4. Pizza Calories.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\obj\Debug\Problem 4. Pizza Calories.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\obj\Debug\Problem_4.Pizza_Calories.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 4. Pizza Calories\obj\Debug\Problem_4.Pizza_Calories.pdb

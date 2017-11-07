@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\bin\Debug\Problem_3.Shopping_Spree.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\bin\Debug\Problem_3.Shopping_Spree.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\bin\Debug\Problem_3.Shopping_Spree.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\obj\Debug\Problem 3. Shopping Spree.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\obj\Debug\Problem 3. Shopping Spree.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\obj\Debug\Problem_3.Shopping_Spree.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\02.Encapsulation-Exercises\Problem 3. Shopping Spree\obj\Debug\Problem_3.Shopping_Spree.pdb

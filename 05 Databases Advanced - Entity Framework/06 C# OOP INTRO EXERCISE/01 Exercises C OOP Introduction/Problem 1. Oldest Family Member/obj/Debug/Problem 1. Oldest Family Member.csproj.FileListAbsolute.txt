@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\bin\Debug\Problem_1.Oldest_Family_Member.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\bin\Debug\Problem_1.Oldest_Family_Member.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\bin\Debug\Problem_1.Oldest_Family_Member.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\obj\Debug\Problem 1. Oldest Family Member.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\obj\Debug\Problem 1. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\obj\Debug\Problem_1.Oldest_Family_Member.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 1. Oldest Family Member\obj\Debug\Problem_1.Oldest_Family_Member.pdb

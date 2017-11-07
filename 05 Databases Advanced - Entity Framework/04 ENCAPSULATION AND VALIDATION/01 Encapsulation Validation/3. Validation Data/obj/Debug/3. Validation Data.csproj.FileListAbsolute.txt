@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\bin\Debug\_3.Validation_Data.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\bin\Debug\_3.Validation_Data.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\bin\Debug\_3.Validation_Data.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\obj\Debug\3. Validation Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\obj\Debug\3. Validation Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\obj\Debug\_3.Validation_Data.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\3. Validation Data\obj\Debug\_3.Validation_Data.pdb

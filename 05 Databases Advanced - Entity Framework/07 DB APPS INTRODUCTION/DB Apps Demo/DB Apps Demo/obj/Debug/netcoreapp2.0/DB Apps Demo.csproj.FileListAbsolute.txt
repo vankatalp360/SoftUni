@@ -1,0 +1,11 @@
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\bin\Debug\netcoreapp2.0\DB Apps Demo.deps.json
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\bin\Debug\netcoreapp2.0\DB Apps Demo.runtimeconfig.json
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\bin\Debug\netcoreapp2.0\DB Apps Demo.runtimeconfig.dev.json
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\bin\Debug\netcoreapp2.0\DB Apps Demo.dll
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\bin\Debug\netcoreapp2.0\DB Apps Demo.pdb
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\obj\Debug\netcoreapp2.0\DB Apps Demo.csprojResolveAssemblyReference.cache
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\obj\Debug\netcoreapp2.0\DB Apps Demo.csproj.CoreCompileInputs.cache
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\obj\Debug\netcoreapp2.0\DB Apps Demo.AssemblyInfoInputs.cache
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\obj\Debug\netcoreapp2.0\DB Apps Demo.AssemblyInfo.cs
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\obj\Debug\netcoreapp2.0\DB Apps Demo.dll
+d:\users\stany\source\repos\DB Apps Demo\DB Apps Demo\obj\Debug\netcoreapp2.0\DB Apps Demo.pdb

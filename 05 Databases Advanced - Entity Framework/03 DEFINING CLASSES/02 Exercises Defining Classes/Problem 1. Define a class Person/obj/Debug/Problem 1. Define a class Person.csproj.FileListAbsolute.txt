@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\bin\Debug\Problem_1.Define_a_class_Person.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\bin\Debug\Problem_1.Define_a_class_Person.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\bin\Debug\Problem_1.Define_a_class_Person.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\obj\Debug\Problem 1. Define a class Person.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\obj\Debug\Problem 1. Define a class Person.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\obj\Debug\Problem_1.Define_a_class_Person.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\03 DEFINING CLASSES\02 Exercises Defining Classes\Problem 1. Define a class Person\obj\Debug\Problem_1.Define_a_class_Person.pdb

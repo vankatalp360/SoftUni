@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\obj\Debug\Problem 2. Book Shop.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\obj\Debug\Problem 2. Book Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\02 Exercises Inheritance\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\3. Hierarchical Inheritance\bin\Debug\_3.Hierarchical_Inheritance.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\3. Hierarchical Inheritance\bin\Debug\_3.Hierarchical_Inheritance.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\3. Hierarchical Inheritance\bin\Debug\_3.Hierarchical_Inheritance.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\3. Hierarchical Inheritance\obj\Debug\3. Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\3. Hierarchical Inheritance\obj\Debug\_3.Hierarchical_Inheritance.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\05 INHERITANCE AND GENERICS\01 Lab Inheritance\3. Hierarchical Inheritance\obj\Debug\_3.Hierarchical_Inheritance.pdb

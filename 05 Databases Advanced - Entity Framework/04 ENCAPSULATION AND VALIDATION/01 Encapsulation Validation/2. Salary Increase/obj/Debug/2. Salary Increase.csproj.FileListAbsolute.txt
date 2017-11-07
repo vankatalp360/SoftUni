@@ -1,0 +1,6 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\2. Salary Increase\bin\Debug\_2.Salary_Increase.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\2. Salary Increase\bin\Debug\_2.Salary_Increase.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\2. Salary Increase\bin\Debug\_2.Salary_Increase.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\2. Salary Increase\obj\Debug\2. Salary Increase.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\2. Salary Increase\obj\Debug\_2.Salary_Increase.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\04 ENCAPSULATION AND VALIDATION\01 Encapsulation Validation\2. Salary Increase\obj\Debug\_2.Salary_Increase.pdb

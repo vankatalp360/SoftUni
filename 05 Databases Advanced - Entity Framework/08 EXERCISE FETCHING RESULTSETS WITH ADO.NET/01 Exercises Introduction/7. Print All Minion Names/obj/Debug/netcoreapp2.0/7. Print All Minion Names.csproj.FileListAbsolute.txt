@@ -1,0 +1,10 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\bin\Debug\netcoreapp2.0\7. Print All Minion Names.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\bin\Debug\netcoreapp2.0\7. Print All Minion Names.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\bin\Debug\netcoreapp2.0\7. Print All Minion Names.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\bin\Debug\netcoreapp2.0\7. Print All Minion Names.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\obj\Debug\netcoreapp2.0\7. Print All Minion Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\obj\Debug\netcoreapp2.0\7. Print All Minion Names.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\obj\Debug\netcoreapp2.0\7. Print All Minion Names.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\bin\Debug\netcoreapp2.0\7. Print All Minion Names.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\obj\Debug\netcoreapp2.0\7. Print All Minion Names.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\08 EXERCISE FETCHING RESULTSETS WITH ADO.NET\01 Exercises Introduction\7. Print All Minion Names\obj\Debug\netcoreapp2.0\7. Print All Minion Names.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\bin\Debug\Problem_7.Animals.exe.config
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\bin\Debug\Problem_7.Animals.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\bin\Debug\Problem_7.Animals.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\obj\Debug\Problem 7. Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\obj\Debug\Problem 7. Animals.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\obj\Debug\Problem_7.Animals.exe
+D:\SoftUni\05 Databases Advanced - Entity Framework\06 C# OOP INTRO EXERCISE\01 Exercises C OOP Introduction\Problem 7. Animals\obj\Debug\Problem_7.Animals.pdb
