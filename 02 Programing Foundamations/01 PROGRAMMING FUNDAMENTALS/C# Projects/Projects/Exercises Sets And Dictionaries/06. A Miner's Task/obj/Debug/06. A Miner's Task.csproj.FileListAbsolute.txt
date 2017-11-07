@@ -1,0 +1,6 @@
+D:\C# Projects\repos\Exercises Sets And Dictionaries\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe.config
+D:\C# Projects\repos\Exercises Sets And Dictionaries\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.pdb
+D:\C# Projects\repos\Exercises Sets And Dictionaries\06. A Miner's Task\obj\Debug\06. A Miner's Task.csproj.CoreCompileInputs.cache
+D:\C# Projects\repos\Exercises Sets And Dictionaries\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.pdb

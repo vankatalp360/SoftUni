@@ -1,0 +1,6 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Objects and Classes\9. Teamwork projects\bin\Debug\_9.Teamwork_projects.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Objects and Classes\9. Teamwork projects\bin\Debug\_9.Teamwork_projects.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Objects and Classes\9. Teamwork projects\bin\Debug\_9.Teamwork_projects.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Objects and Classes\9. Teamwork projects\obj\Debug\9. Teamwork projects.csprojResolveAssemblyReference.cache
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Objects and Classes\9. Teamwork projects\obj\Debug\_9.Teamwork_projects.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Objects and Classes\9. Teamwork projects\obj\Debug\_9.Teamwork_projects.pdb

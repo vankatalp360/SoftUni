@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\6. Book Library Modification\obj\Debug\_6.Book_Library_Modification.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\6. Book Library Modification\obj\Debug\_6.Book_Library_Modification.pdb

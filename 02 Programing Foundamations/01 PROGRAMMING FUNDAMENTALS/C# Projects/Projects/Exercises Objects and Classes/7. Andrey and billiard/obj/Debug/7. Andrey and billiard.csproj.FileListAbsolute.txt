@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\7. Andrey and billiard\bin\Debug\_7.Andrey_and_billiard.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\7. Andrey and billiard\bin\Debug\_7.Andrey_and_billiard.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\7. Andrey and billiard\bin\Debug\_7.Andrey_and_billiard.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\7. Andrey and billiard\obj\Debug\7. Andrey and billiard.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\7. Andrey and billiard\obj\Debug\_7.Andrey_and_billiard.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\7. Andrey and billiard\obj\Debug\_7.Andrey_and_billiard.pdb

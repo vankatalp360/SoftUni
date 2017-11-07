@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\3. Word encounter\bin\Debug\_3.Word_encounter.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\3. Word encounter\bin\Debug\_3.Word_encounter.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\3. Word encounter\bin\Debug\_3.Word_encounter.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\3. Word encounter\obj\Debug\3. Word encounter.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\3. Word encounter\obj\Debug\_3.Word_encounter.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\3. Word encounter\obj\Debug\_3.Word_encounter.pdb

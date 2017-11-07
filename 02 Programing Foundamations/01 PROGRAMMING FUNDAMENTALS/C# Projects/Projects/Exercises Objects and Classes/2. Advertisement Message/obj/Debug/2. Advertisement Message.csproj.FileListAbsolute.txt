@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb

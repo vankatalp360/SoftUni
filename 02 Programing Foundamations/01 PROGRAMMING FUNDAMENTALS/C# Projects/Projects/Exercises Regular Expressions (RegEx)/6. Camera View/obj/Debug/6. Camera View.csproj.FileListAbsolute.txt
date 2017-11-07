@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\6. Camera View\bin\Debug\_6.Camera_View.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\6. Camera View\bin\Debug\_6.Camera_View.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\6. Camera View\bin\Debug\_6.Camera_View.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\6. Camera View\obj\Debug\6. Camera View.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\6. Camera View\obj\Debug\_6.Camera_View.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\6. Camera View\obj\Debug\_6.Camera_View.pdb

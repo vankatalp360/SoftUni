@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\bin\Debug\Exercises Regular Expressions (RegEx).exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\bin\Debug\Exercises Regular Expressions (RegEx).exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\bin\Debug\Exercises Regular Expressions (RegEx).pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\obj\Debug\1. Extract emails.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\obj\Debug\Exercises Regular Expressions (RegEx).exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\obj\Debug\Exercises Regular Expressions (RegEx).pdb

@@ -1,0 +1,1 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\Exercises Regular Expressions (RegEx)\bin\Debug\Exercises Regular Expressions (RegEx).exe.config

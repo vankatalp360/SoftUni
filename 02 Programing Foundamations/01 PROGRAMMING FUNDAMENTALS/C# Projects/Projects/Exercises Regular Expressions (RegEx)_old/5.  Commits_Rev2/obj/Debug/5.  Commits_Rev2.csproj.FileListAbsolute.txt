@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits_Rev2\bin\Debug\_5.Commits_Rev2.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits_Rev2\bin\Debug\_5.Commits_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits_Rev2\bin\Debug\_5.Commits_Rev2.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits_Rev2\obj\Debug\_5.Commits_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits_Rev2\obj\Debug\_5.Commits_Rev2.pdb

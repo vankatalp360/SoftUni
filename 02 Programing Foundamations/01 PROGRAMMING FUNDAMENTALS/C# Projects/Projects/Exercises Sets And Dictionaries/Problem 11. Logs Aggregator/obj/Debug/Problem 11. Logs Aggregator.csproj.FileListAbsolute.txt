@@ -1,0 +1,6 @@
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 11. Logs Aggregator\bin\Debug\Problem_11.Logs_Aggregator.exe.config
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 11. Logs Aggregator\bin\Debug\Problem_11.Logs_Aggregator.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 11. Logs Aggregator\bin\Debug\Problem_11.Logs_Aggregator.pdb
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 11. Logs Aggregator\obj\Debug\Problem 11. Logs Aggregator.csproj.CoreCompileInputs.cache
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 11. Logs Aggregator\obj\Debug\Problem_11.Logs_Aggregator.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 11. Logs Aggregator\obj\Debug\Problem_11.Logs_Aggregator.pdb

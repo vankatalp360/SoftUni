@@ -1,0 +1,7 @@
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\bin\Debug\Problem_1.Unique_Usernames.exe.config
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\bin\Debug\Problem_1.Unique_Usernames.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\bin\Debug\Problem_1.Unique_Usernames.pdb
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\obj\Debug\Problem 1. Unique Usernames.csprojResolveAssemblyReference.cache
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\obj\Debug\Problem 1. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\obj\Debug\Problem_1.Unique_Usernames.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 1. Unique Usernames\obj\Debug\Problem_1.Unique_Usernames.pdb

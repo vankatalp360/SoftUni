@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\5. Book Library\bin\Debug\_5.Book_Library.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\5. Book Library\bin\Debug\_5.Book_Library.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\5. Book Library\bin\Debug\_5.Book_Library.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\5. Book Library\obj\Debug\5. Book Library.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\5. Book Library\obj\Debug\_5.Book_Library.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\5. Book Library\obj\Debug\_5.Book_Library.pdb

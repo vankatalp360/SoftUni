@@ -1,0 +1,6 @@
+D:\C# Projects\repos\Exercises Sets And Dictionaries\09. User Logs_Rev2\bin\Debug\_09.User_Logs_Rev2.exe.config
+D:\C# Projects\repos\Exercises Sets And Dictionaries\09. User Logs_Rev2\bin\Debug\_09.User_Logs_Rev2.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\09. User Logs_Rev2\bin\Debug\_09.User_Logs_Rev2.pdb
+D:\C# Projects\repos\Exercises Sets And Dictionaries\09. User Logs_Rev2\obj\Debug\09. User Logs_Rev2.csproj.CoreCompileInputs.cache
+D:\C# Projects\repos\Exercises Sets And Dictionaries\09. User Logs_Rev2\obj\Debug\_09.User_Logs_Rev2.exe
+D:\C# Projects\repos\Exercises Sets And Dictionaries\09. User Logs_Rev2\obj\Debug\_09.User_Logs_Rev2.pdb

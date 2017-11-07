@@ -1,0 +1,7 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\bin\Debug\_5.Use_Your_Chains__Buddy.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\bin\Debug\_5.Use_Your_Chains__Buddy.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\bin\Debug\_5.Use_Your_Chains__Buddy.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\obj\Debug\5. Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\obj\Debug\_5.Use_Your_Chains__Buddy.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\obj\Debug\_5.Use_Your_Chains__Buddy.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\5. Use Your Chains, Buddy\bin\Debug\TextFile1.txt

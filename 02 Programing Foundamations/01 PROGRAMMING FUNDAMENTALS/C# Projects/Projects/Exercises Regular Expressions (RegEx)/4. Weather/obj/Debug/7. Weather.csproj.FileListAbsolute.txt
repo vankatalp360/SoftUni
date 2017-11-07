@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Weather\bin\Debug\_4.Weather.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Weather\bin\Debug\_4.Weather.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Weather\bin\Debug\_4.Weather.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Weather\obj\Debug\_4.Weather.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Weather\obj\Debug\_4.Weather.pdb

@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\4. Happiness Index\bin\Debug\_4.Happiness_Index.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\4. Happiness Index\bin\Debug\_4.Happiness_Index.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\4. Happiness Index\bin\Debug\_4.Happiness_Index.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\4. Happiness Index\obj\Debug\_4.Happiness_Index.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\4. Happiness Index\obj\Debug\_4.Happiness_Index.pdb
