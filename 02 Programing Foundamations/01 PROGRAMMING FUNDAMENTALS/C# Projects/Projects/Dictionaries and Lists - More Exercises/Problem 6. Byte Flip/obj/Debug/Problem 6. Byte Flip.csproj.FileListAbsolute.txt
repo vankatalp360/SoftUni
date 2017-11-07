@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 6. Byte Flip\bin\Debug\Problem_6.Byte_Flip.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 6. Byte Flip\bin\Debug\Problem_6.Byte_Flip.exe
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 6. Byte Flip\bin\Debug\Problem_6.Byte_Flip.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 6. Byte Flip\obj\Debug\Problem_6.Byte_Flip.exe
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 6. Byte Flip\obj\Debug\Problem_6.Byte_Flip.pdb

@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\8. Logs Aggregator\bin\Debug\_8.Logs_Aggregator.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\8. Logs Aggregator\bin\Debug\_8.Logs_Aggregator.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\8. Logs Aggregator\bin\Debug\_8.Logs_Aggregator.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\8. Logs Aggregator\obj\Debug\8. Logs Aggregator.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\8. Logs Aggregator\obj\Debug\_8.Logs_Aggregator.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\8. Logs Aggregator\obj\Debug\_8.Logs_Aggregator.pdb

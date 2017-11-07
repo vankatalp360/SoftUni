@@ -1,0 +1,6 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\7. Bomb Numbers_Rev2\bin\Debug\_7.Bomb_Numbers_Rev2.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\7. Bomb Numbers_Rev2\bin\Debug\_7.Bomb_Numbers_Rev2.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\7. Bomb Numbers_Rev2\bin\Debug\_7.Bomb_Numbers_Rev2.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\7. Bomb Numbers_Rev2\obj\Debug\7. Bomb Numbers_Rev2.csprojResolveAssemblyReference.cache
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\7. Bomb Numbers_Rev2\obj\Debug\_7.Bomb_Numbers_Rev2.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\7. Bomb Numbers_Rev2\obj\Debug\_7.Bomb_Numbers_Rev2.pdb

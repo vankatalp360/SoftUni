@@ -1,0 +1,5 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 12. Game of Numbers\bin\Debug\Problem_12.Game_of_Numbers.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 12. Game of Numbers\bin\Debug\Problem_12.Game_of_Numbers.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 12. Game of Numbers\bin\Debug\Problem_12.Game_of_Numbers.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 12. Game of Numbers\obj\Debug\Problem_12.Game_of_Numbers.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 12. Game of Numbers\obj\Debug\Problem_12.Game_of_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.pdb

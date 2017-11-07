@@ -1,0 +1,10 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\4. Fix Emails.csprojResolveAssemblyReference.cache
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\4. Fix Emails.csproj.CoreCompileInputs.cache
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb

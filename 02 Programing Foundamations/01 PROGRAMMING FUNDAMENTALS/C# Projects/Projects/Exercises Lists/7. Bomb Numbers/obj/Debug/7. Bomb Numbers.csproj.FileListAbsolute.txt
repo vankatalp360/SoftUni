@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\7. Bomb Numbers\bin\Debug\_7.Bomb_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\7. Bomb Numbers\bin\Debug\_7.Bomb_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\7. Bomb Numbers\bin\Debug\_7.Bomb_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\7. Bomb Numbers\obj\Debug\_7.Bomb_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\7. Bomb Numbers\obj\Debug\_7.Bomb_Numbers.pdb

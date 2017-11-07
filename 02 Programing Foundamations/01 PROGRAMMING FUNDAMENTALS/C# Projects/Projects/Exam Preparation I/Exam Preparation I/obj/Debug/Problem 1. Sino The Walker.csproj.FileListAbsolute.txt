@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Exam Preparation I\bin\Debug\Exam Preparation I.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Exam Preparation I\bin\Debug\Exam Preparation I.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Exam Preparation I\bin\Debug\Exam Preparation I.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Exam Preparation I\obj\Debug\Problem 1. Sino The Walker.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Exam Preparation I\obj\Debug\Exam Preparation I.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Exam Preparation I\obj\Debug\Exam Preparation I.pdb

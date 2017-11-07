@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\2.  Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\2.  Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.pdb

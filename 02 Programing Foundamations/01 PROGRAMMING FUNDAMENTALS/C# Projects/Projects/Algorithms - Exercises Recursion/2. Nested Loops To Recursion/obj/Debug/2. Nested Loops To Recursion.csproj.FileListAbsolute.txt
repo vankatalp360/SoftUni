@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\2. Nested Loops To Recursion\bin\Debug\_2.Nested_Loops_To_Recursion.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\2. Nested Loops To Recursion\bin\Debug\_2.Nested_Loops_To_Recursion.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\2. Nested Loops To Recursion\bin\Debug\_2.Nested_Loops_To_Recursion.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\2. Nested Loops To Recursion\obj\Debug\_2.Nested_Loops_To_Recursion.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\2. Nested Loops To Recursion\obj\Debug\_2.Nested_Loops_To_Recursion.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\2. Nested Loops To Recursion\obj\Debug\2. Nested Loops To Recursion.csprojResolveAssemblyReference.cache

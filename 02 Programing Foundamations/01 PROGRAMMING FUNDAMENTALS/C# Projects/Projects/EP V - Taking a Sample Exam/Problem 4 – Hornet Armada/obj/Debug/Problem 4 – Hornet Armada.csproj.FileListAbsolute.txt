@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 4 – Hornet Armada\bin\Debug\Problem 4 – Hornet Armada.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 4 – Hornet Armada\bin\Debug\Problem 4 – Hornet Armada.exe
+c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 4 – Hornet Armada\bin\Debug\Problem 4 – Hornet Armada.pdb
+c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 4 – Hornet Armada\obj\Debug\Problem 4 – Hornet Armada.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 4 – Hornet Armada\obj\Debug\Problem 4 – Hornet Armada.exe
+c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 4 – Hornet Armada\obj\Debug\Problem 4 – Hornet Armada.pdb

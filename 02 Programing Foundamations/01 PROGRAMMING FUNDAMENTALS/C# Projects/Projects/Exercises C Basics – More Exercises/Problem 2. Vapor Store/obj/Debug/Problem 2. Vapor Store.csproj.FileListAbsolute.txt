@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 2. Vapor Store\obj\Debug\Problem 2. Vapor Store.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.pdb

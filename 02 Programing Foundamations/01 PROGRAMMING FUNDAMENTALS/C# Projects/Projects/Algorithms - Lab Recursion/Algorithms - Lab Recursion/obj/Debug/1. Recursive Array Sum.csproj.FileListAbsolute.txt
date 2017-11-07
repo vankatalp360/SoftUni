@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Algorithms - Lab Recursion\bin\Debug\Algorithms - Lab Recursion.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Algorithms - Lab Recursion\bin\Debug\Algorithms - Lab Recursion.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Algorithms - Lab Recursion\bin\Debug\Algorithms - Lab Recursion.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Algorithms - Lab Recursion\obj\Debug\1. Recursive Array Sum.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Algorithms - Lab Recursion\obj\Debug\Algorithms - Lab Recursion.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Algorithms - Lab Recursion\obj\Debug\Algorithms - Lab Recursion.pdb

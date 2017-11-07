@@ -1,0 +1,5 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming_Rev2\bin\Debug\_9.Legendary_Farming_Rev2.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming_Rev2\bin\Debug\_9.Legendary_Farming_Rev2.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming_Rev2\bin\Debug\_9.Legendary_Farming_Rev2.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming_Rev2\obj\Debug\_9.Legendary_Farming_Rev2.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming_Rev2\obj\Debug\_9.Legendary_Farming_Rev2.pdb

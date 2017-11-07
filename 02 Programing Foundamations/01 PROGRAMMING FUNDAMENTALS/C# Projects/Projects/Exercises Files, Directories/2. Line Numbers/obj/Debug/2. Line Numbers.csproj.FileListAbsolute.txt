@@ -1,0 +1,6 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\2. Line Numbers\bin\Debug\Input.txt
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\2. Line Numbers\bin\Debug\_2.Line_Numbers.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\2. Line Numbers\obj\Debug\_2.Line_Numbers.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\2. Line Numbers\obj\Debug\_2.Line_Numbers.pdb

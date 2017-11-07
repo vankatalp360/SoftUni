@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Part II - 8 Queens Puzzle\bin\Debug\Part II - 8 Queens Puzzle.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Part II - 8 Queens Puzzle\bin\Debug\Part II - 8 Queens Puzzle.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Part II - 8 Queens Puzzle\bin\Debug\Part II - 8 Queens Puzzle.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Part II - 8 Queens Puzzle\obj\Debug\Part II - 8 Queens Puzzle.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Part II - 8 Queens Puzzle\obj\Debug\Part II - 8 Queens Puzzle.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\Part II - 8 Queens Puzzle\obj\Debug\Part II - 8 Queens Puzzle.pdb

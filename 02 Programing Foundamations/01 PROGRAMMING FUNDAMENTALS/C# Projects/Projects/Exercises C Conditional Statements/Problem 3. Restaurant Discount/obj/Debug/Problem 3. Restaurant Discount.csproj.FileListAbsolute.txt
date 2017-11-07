@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb

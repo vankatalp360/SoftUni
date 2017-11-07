@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 3. Immune System\bin\Debug\Problem_3.Immune_System.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 3. Immune System\bin\Debug\Problem_3.Immune_System.exe
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 3. Immune System\bin\Debug\Problem_3.Immune_System.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 3. Immune System\obj\Debug\Problem_3.Immune_System.exe
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 3. Immune System\obj\Debug\Problem_3.Immune_System.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 3. Immune System\obj\Debug\Problem 3. Immune System.csprojResolveAssemblyReference.cache

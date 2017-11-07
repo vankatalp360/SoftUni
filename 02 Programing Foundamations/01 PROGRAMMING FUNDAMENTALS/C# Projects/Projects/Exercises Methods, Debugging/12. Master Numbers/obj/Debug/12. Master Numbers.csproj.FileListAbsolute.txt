@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\12. Master Numbers\bin\Debug\_12.Master_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\12. Master Numbers\bin\Debug\_12.Master_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\12. Master Numbers\bin\Debug\_12.Master_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\12. Master Numbers\obj\Debug\_12.Master_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\12. Master Numbers\obj\Debug\_12.Master_Numbers.pdb

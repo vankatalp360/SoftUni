@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\10. Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Methods, Debugging\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb

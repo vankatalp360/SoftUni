@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Greating\bin\Debug\2017.05.22 - PF - Greating.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Greating\bin\Debug\2017.05.22 - PF - Greating.exe
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Greating\bin\Debug\2017.05.22 - PF - Greating.pdb
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Greating\obj\Debug\2017.05.22 - PF - Greeting.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Greating\obj\Debug\2017.05.22 - PF - Greating.exe
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Greating\obj\Debug\2017.05.22 - PF - Greating.pdb

@@ -1,0 +1,5 @@
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 6. DNA Sequences\bin\Debug\Problem_6.DNA_Sequences.exe.config
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 6. DNA Sequences\bin\Debug\Problem_6.DNA_Sequences.exe
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 6. DNA Sequences\bin\Debug\Problem_6.DNA_Sequences.pdb
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 6. DNA Sequences\obj\Debug\Problem_6.DNA_Sequences.exe
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 6. DNA Sequences\obj\Debug\Problem_6.DNA_Sequences.pdb

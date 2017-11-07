@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Add Two Numbers\bin\Debug\2017.05.22 - PF - Add Two Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Add Two Numbers\bin\Debug\2017.05.22 - PF - Add Two Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Add Two Numbers\bin\Debug\2017.05.22 - PF - Add Two Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Add Two Numbers\obj\Debug\2017.05.22 - PF - Add Two Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Add Two Numbers\obj\Debug\2017.05.22 - PF - Add Two Numbers.pdb

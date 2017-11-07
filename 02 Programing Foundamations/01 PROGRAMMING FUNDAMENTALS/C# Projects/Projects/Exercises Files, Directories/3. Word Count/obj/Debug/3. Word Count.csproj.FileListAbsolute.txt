@@ -1,0 +1,7 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\bin\Debug\_3.Word_Count.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\bin\Debug\_3.Word_Count.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\obj\Debug\_3.Word_Count.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\obj\Debug\_3.Word_Count.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\bin\Debug\words.txt
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\3. Word Count\bin\Debug\text.txt

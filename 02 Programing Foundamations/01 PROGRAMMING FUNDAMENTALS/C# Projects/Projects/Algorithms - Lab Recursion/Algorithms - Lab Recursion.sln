@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Recursive Array Sum", "Algorithms - Lab Recursion\1. Recursive Array Sum.csproj", "{2FBE170F-571F-4870-A2BF-8BE69CE14299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Recursive Factorial", "2. Recursive Factorial\2. Recursive Factorial.csproj", "{54DC5381-D323-40E5-8F58-8DC78E223242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Recursive Drawing", "3. Recursive Drawing\3. Recursive Drawing.csproj", "{B8D02803-9AC8-43B8-A824-79490F3277C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Generating 01 Vectors", "4. Generating 01 Vectors\4. Generating 01 Vectors.csproj", "{072F9815-607C-4EC8-8134-CF512EFDDF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Generating Combinations", "5. Generating Combinations\5. Generating Combinations.csproj", "{4666E9C1-39D0-4CD1-870A-500D56AA6E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part II - 8 Queens Puzzle", "Part II - 8 Queens Puzzle\Part II - 8 Queens Puzzle.csproj", "{1B53D0D1-A56D-4AEC-8C02-D846095C8469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part III - Find All Paths in a Labyrinth", "Part III - Find All Paths in a Labyrinth\Part III - Find All Paths in a Labyrinth.csproj", "{874811CB-6B83-4FEA-B962-932C218F422F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FBE170F-571F-4870-A2BF-8BE69CE14299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBE170F-571F-4870-A2BF-8BE69CE14299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBE170F-571F-4870-A2BF-8BE69CE14299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBE170F-571F-4870-A2BF-8BE69CE14299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DC5381-D323-40E5-8F58-8DC78E223242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DC5381-D323-40E5-8F58-8DC78E223242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DC5381-D323-40E5-8F58-8DC78E223242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DC5381-D323-40E5-8F58-8DC78E223242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D02803-9AC8-43B8-A824-79490F3277C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D02803-9AC8-43B8-A824-79490F3277C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D02803-9AC8-43B8-A824-79490F3277C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D02803-9AC8-43B8-A824-79490F3277C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072F9815-607C-4EC8-8134-CF512EFDDF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072F9815-607C-4EC8-8134-CF512EFDDF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072F9815-607C-4EC8-8134-CF512EFDDF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072F9815-607C-4EC8-8134-CF512EFDDF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4666E9C1-39D0-4CD1-870A-500D56AA6E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4666E9C1-39D0-4CD1-870A-500D56AA6E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4666E9C1-39D0-4CD1-870A-500D56AA6E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4666E9C1-39D0-4CD1-870A-500D56AA6E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B53D0D1-A56D-4AEC-8C02-D846095C8469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B53D0D1-A56D-4AEC-8C02-D846095C8469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B53D0D1-A56D-4AEC-8C02-D846095C8469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B53D0D1-A56D-4AEC-8C02-D846095C8469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874811CB-6B83-4FEA-B962-932C218F422F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874811CB-6B83-4FEA-B962-932C218F422F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874811CB-6B83-4FEA-B962-932C218F422F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874811CB-6B83-4FEA-B962-932C218F422F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

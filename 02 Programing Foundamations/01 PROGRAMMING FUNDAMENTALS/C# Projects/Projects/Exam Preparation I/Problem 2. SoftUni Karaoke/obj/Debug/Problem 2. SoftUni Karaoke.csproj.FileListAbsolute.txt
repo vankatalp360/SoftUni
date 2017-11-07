@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb

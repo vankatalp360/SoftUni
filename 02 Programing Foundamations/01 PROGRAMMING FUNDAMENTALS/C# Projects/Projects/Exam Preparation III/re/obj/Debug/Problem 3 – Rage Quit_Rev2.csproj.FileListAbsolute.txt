@@ -1,0 +1,3 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\re\bin\Debug\re.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\re\obj\Debug\re.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\re\obj\Debug\re.pdb

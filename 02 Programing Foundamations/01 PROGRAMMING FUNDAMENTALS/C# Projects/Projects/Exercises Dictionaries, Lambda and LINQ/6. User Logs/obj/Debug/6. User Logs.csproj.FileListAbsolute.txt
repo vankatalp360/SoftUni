@@ -1,0 +1,13 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\bin\Debug\_6.User_Logs.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\bin\Debug\_6.User_Logs.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\bin\Debug\_6.User_Logs.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\6. User Logs.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\_6.User_Logs.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\_6.User_Logs.pdb
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\bin\Debug\_6.User_Logs.exe.config
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\bin\Debug\_6.User_Logs.exe
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\bin\Debug\_6.User_Logs.pdb
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\6. User Logs.csprojResolveAssemblyReference.cache
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\6. User Logs.csproj.CoreCompileInputs.cache
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\_6.User_Logs.exe
+D:\C# Projects\Projects\Exercises Dictionaries, Lambda and LINQ\6. User Logs\obj\Debug\_6.User_Logs.pdb

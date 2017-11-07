@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\5. Combinations without Repetition\bin\Debug\_5.Combinations_without_Repetition.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\5. Combinations without Repetition\bin\Debug\_5.Combinations_without_Repetition.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\5. Combinations without Repetition\bin\Debug\_5.Combinations_without_Repetition.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\5. Combinations without Repetition\obj\Debug\_5.Combinations_without_Repetition.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\5. Combinations without Repetition\obj\Debug\_5.Combinations_without_Repetition.pdb

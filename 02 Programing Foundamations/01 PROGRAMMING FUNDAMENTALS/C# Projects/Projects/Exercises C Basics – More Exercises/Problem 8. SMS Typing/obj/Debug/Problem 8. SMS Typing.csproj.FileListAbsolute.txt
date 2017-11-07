@@ -1,0 +1,6 @@
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 8. SMS Typing\bin\Debug\Problem_8.SMS_Typing.exe.config
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 8. SMS Typing\bin\Debug\Problem_8.SMS_Typing.exe
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 8. SMS Typing\bin\Debug\Problem_8.SMS_Typing.pdb
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 8. SMS Typing\obj\Debug\Problem 8. SMS Typing.csprojResolveAssemblyReference.cache
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 8. SMS Typing\obj\Debug\Problem_8.SMS_Typing.exe
+C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 8. SMS Typing\obj\Debug\Problem_8.SMS_Typing.pdb

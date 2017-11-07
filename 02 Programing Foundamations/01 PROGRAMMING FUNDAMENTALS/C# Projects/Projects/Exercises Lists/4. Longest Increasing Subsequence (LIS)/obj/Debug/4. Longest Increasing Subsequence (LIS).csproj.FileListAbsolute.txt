@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\4. Longest Increasing Subsequence (LIS)\bin\Debug\_4.Longest_Increasing_Subsequence__LIS_.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\4. Longest Increasing Subsequence (LIS)\bin\Debug\_4.Longest_Increasing_Subsequence__LIS_.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\4. Longest Increasing Subsequence (LIS)\bin\Debug\_4.Longest_Increasing_Subsequence__LIS_.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\4. Longest Increasing Subsequence (LIS)\obj\Debug\_4.Longest_Increasing_Subsequence__LIS_.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\4. Longest Increasing Subsequence (LIS)\obj\Debug\_4.Longest_Increasing_Subsequence__LIS_.pdb

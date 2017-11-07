@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\obj\Debug\Problem 5. Parking Validation.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.exe
+c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.pdb

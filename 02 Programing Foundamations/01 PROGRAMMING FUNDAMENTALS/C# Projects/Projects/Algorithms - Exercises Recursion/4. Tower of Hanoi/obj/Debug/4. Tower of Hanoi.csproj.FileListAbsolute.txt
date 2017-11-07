@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\4. Tower of Hanoi\bin\Debug\_4.Tower_of_Hanoi.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\4. Tower of Hanoi\bin\Debug\_4.Tower_of_Hanoi.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\4. Tower of Hanoi\bin\Debug\_4.Tower_of_Hanoi.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\4. Tower of Hanoi\obj\Debug\4. Tower of Hanoi.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\4. Tower of Hanoi\obj\Debug\_4.Tower_of_Hanoi.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\4. Tower of Hanoi\obj\Debug\_4.Tower_of_Hanoi.pdb

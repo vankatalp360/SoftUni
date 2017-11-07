@@ -1,0 +1,5 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 10. 5 Different Numbers\bin\Debug\Problem 10. 5 Different Numbers.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 10. 5 Different Numbers\bin\Debug\Problem 10. 5 Different Numbers.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 10. 5 Different Numbers\bin\Debug\Problem 10. 5 Different Numbers.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 10. 5 Different Numbers\obj\Debug\Problem 10. 5 Different Numbers.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 10. 5 Different Numbers\obj\Debug\Problem 10. 5 Different Numbers.pdb

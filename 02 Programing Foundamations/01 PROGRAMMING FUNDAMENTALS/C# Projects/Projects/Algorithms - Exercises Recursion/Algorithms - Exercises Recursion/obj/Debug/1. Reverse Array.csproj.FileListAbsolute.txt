@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\Algorithms - Exercises Recursion\bin\Debug\Algorithms - Exercises Recursion.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\Algorithms - Exercises Recursion\bin\Debug\Algorithms - Exercises Recursion.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\Algorithms - Exercises Recursion\bin\Debug\Algorithms - Exercises Recursion.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\Algorithms - Exercises Recursion\obj\Debug\1. Reverse Array.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\Algorithms - Exercises Recursion\obj\Debug\Algorithms - Exercises Recursion.exe
+c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\Algorithms - Exercises Recursion\obj\Debug\Algorithms - Exercises Recursion.pdb

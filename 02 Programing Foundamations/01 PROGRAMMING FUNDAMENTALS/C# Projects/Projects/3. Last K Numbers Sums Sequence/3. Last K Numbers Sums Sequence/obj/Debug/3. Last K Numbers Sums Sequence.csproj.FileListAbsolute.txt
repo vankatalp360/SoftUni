@@ -1,0 +1,1 @@
+c:\users\stany\documents\visual studio 2015\Projects\3. Last K Numbers Sums Sequence\3. Last K Numbers Sums Sequence\bin\Debug\_3.Last_K_Numbers_Sums_Sequence.exe.config

@@ -1,0 +1,5 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\6. Sum Reversed Numbers_Rev2\bin\Debug\_6.Sum_Reversed_Numbers_Rev2.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\6. Sum Reversed Numbers_Rev2\bin\Debug\_6.Sum_Reversed_Numbers_Rev2.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\6. Sum Reversed Numbers_Rev2\bin\Debug\_6.Sum_Reversed_Numbers_Rev2.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\6. Sum Reversed Numbers_Rev2\obj\Debug\_6.Sum_Reversed_Numbers_Rev2.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Lists\6. Sum Reversed Numbers_Rev2\obj\Debug\_6.Sum_Reversed_Numbers_Rev2.pdb

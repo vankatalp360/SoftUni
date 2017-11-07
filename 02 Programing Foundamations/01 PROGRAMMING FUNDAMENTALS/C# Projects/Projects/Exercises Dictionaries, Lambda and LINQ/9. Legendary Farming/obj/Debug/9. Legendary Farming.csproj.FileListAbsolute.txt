@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming\bin\Debug\_9.Legendary_Farming.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming\bin\Debug\_9.Legendary_Farming.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming\bin\Debug\_9.Legendary_Farming.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming\obj\Debug\9. Legendary Farming.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming\obj\Debug\_9.Legendary_Farming.exe
+c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\9. Legendary Farming\obj\Debug\_9.Legendary_Farming.pdb

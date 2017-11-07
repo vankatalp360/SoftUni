@@ -1,0 +1,5 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 7. Cake Ingredients\bin\Debug\Problem_7.Cake_Ingredients.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 7. Cake Ingredients\bin\Debug\Problem_7.Cake_Ingredients.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 7. Cake Ingredients\bin\Debug\Problem_7.Cake_Ingredients.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 7. Cake Ingredients\obj\Debug\Problem_7.Cake_Ingredients.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 7. Cake Ingredients\obj\Debug\Problem_7.Cake_Ingredients.pdb
