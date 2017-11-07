@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 3 – Endurance Rally\bin\Debug\Problem 3 – Endurance Rally.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 3 – Endurance Rally\bin\Debug\Problem 3 – Endurance Rally.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 3 – Endurance Rally\bin\Debug\Problem 3 – Endurance Rally.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 3 – Endurance Rally\obj\Debug\Problem 3 – Endurance Rally.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation I\Problem 3 – Endurance Rally\obj\Debug\Problem 3 – Endurance Rally.pdb

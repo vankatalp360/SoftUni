@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 3. Megapixels\obj\Debug\Problem 3. Megapixels.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.pdb

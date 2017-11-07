@@ -1,5 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.pdb

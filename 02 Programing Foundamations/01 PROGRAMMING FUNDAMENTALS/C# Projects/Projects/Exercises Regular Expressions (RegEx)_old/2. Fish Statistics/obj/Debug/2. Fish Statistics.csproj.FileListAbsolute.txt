@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\2. Fish Statistics\bin\Debug\_2.Fish_Statistics.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\2. Fish Statistics\bin\Debug\_2.Fish_Statistics.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\2. Fish Statistics\bin\Debug\_2.Fish_Statistics.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\2. Fish Statistics\obj\Debug\2. Fish Statistics.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\2. Fish Statistics\obj\Debug\_2.Fish_Statistics.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\2. Fish Statistics\obj\Debug\_2.Fish_Statistics.pdb

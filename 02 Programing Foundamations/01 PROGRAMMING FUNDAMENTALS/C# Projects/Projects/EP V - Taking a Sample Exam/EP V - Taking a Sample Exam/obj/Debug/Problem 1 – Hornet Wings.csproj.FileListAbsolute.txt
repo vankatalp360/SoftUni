@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\EP V - Taking a Sample Exam\bin\Debug\EP V - Taking a Sample Exam.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\EP V - Taking a Sample Exam\bin\Debug\EP V - Taking a Sample Exam.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\EP V - Taking a Sample Exam\bin\Debug\EP V - Taking a Sample Exam.pdb
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\EP V - Taking a Sample Exam\obj\Debug\EP V - Taking a Sample Exam.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\EP V - Taking a Sample Exam\obj\Debug\EP V - Taking a Sample Exam.pdb

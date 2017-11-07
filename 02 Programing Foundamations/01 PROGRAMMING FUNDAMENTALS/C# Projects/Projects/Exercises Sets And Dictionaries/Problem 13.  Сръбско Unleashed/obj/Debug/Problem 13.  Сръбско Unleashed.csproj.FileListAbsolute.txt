@@ -1,6 +1,0 @@
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 13.  Сръбско Unleashed\bin\Debug\Problem_13.Сръбско_Unleashed.exe.config
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 13.  Сръбско Unleashed\bin\Debug\Problem_13.Сръбско_Unleashed.exe
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 13.  Сръбско Unleashed\bin\Debug\Problem_13.Сръбско_Unleashed.pdb
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 13.  Сръбско Unleashed\obj\Debug\Problem 13.  Сръбско Unleashed.csproj.CoreCompileInputs.cache
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 13.  Сръбско Unleashed\obj\Debug\Problem_13.Сръбско_Unleashed.exe
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 13.  Сръбско Unleashed\obj\Debug\Problem_13.Сръбско_Unleashed.pdb

@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Programming for Beginners – 24 April 2016\bin\Debug\Programming for Beginners – 24 April 2016.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Programming for Beginners – 24 April 2016\bin\Debug\Programming for Beginners – 24 April 2016.exe
-c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Programming for Beginners – 24 April 2016\bin\Debug\Programming for Beginners – 24 April 2016.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Programming for Beginners – 24 April 2016\obj\Debug\Programming for Beginners – 24 April 2016.exe
-c:\users\stany\documents\visual studio 2015\Projects\Programming for Beginners – 24 April 2016\Programming for Beginners – 24 April 2016\obj\Debug\Programming for Beginners – 24 April 2016.pdb

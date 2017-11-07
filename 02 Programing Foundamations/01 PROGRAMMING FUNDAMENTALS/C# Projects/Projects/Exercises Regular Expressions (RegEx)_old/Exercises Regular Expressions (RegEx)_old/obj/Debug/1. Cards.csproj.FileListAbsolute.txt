@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\Exercises Regular Expressions (RegEx)_old\bin\Debug\Exercises Regular Expressions (RegEx)_old.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\Exercises Regular Expressions (RegEx)_old\bin\Debug\Exercises Regular Expressions (RegEx)_old.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\Exercises Regular Expressions (RegEx)_old\bin\Debug\Exercises Regular Expressions (RegEx)_old.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\Exercises Regular Expressions (RegEx)_old\obj\Debug\Exercises Regular Expressions (RegEx)_old.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\Exercises Regular Expressions (RegEx)_old\obj\Debug\Exercises Regular Expressions (RegEx)_old.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\Exercises Regular Expressions (RegEx)_old\obj\Debug\1. Cards.csprojResolveAssemblyReference.cache

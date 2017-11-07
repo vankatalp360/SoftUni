@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\2. Randomize Words\bin\Debug\_2.Randomize_Words.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\2. Randomize Words\bin\Debug\_2.Randomize_Words.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\2. Randomize Words\bin\Debug\_2.Randomize_Words.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\2. Randomize Words\obj\Debug\_2.Randomize_Words.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\2. Randomize Words\obj\Debug\_2.Randomize_Words.pdb

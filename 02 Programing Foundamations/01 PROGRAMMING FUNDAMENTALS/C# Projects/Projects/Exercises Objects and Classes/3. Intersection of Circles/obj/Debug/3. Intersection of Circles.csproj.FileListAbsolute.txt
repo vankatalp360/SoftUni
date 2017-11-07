@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\3. Intersection of Circles\obj\Debug\3. Intersection of Circles.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.pdb

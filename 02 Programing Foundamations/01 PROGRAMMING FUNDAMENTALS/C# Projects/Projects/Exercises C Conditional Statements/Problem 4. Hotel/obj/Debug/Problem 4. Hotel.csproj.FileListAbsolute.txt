@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 4. Hotel\obj\Debug\Problem 4. Hotel.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.pdb

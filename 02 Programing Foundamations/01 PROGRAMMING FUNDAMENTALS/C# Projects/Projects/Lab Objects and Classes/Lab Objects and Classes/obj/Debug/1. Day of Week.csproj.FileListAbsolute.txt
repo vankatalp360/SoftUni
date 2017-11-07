@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\Lab Objects and Classes\bin\Debug\Lab Objects and Classes.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\Lab Objects and Classes\bin\Debug\Lab Objects and Classes.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\Lab Objects and Classes\bin\Debug\Lab Objects and Classes.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\Lab Objects and Classes\obj\Debug\Lab Objects and Classes.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\Lab Objects and Classes\obj\Debug\Lab Objects and Classes.pdb

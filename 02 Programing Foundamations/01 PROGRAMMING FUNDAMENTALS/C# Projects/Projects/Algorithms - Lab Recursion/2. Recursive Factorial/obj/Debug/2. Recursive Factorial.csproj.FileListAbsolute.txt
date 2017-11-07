@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\2. Recursive Factorial\bin\Debug\_2.Recursive_Factorial.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\2. Recursive Factorial\bin\Debug\_2.Recursive_Factorial.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\2. Recursive Factorial\bin\Debug\_2.Recursive_Factorial.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\2. Recursive Factorial\obj\Debug\_2.Recursive_Factorial.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\2. Recursive Factorial\obj\Debug\_2.Recursive_Factorial.pdb

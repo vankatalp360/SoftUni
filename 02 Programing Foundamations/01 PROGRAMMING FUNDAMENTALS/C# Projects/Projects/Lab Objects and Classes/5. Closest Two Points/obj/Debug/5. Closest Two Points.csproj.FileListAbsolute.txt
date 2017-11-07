@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\5. Closest Two Points\obj\Debug\_5.Closest_Two_Points.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\5. Closest Two Points\obj\Debug\_5.Closest_Two_Points.pdb

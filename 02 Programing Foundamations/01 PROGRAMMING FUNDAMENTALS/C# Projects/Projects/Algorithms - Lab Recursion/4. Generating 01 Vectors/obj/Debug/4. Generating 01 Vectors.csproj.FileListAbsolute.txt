@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\4. Generating 01 Vectors\bin\Debug\_4.Generating_01_Vectors.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\4. Generating 01 Vectors\bin\Debug\_4.Generating_01_Vectors.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\4. Generating 01 Vectors\bin\Debug\_4.Generating_01_Vectors.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\4. Generating 01 Vectors\obj\Debug\_4.Generating_01_Vectors.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\4. Generating 01 Vectors\obj\Debug\_4.Generating_01_Vectors.pdb

@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 7. Take-Skip Rope\bin\Debug\Problem_7.Take_Skip_Rope.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 7. Take-Skip Rope\bin\Debug\Problem_7.Take_Skip_Rope.exe
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 7. Take-Skip Rope\bin\Debug\Problem_7.Take_Skip_Rope.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 7. Take-Skip Rope\obj\Debug\Problem_7.Take_Skip_Rope.exe
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 7. Take-Skip Rope\obj\Debug\Problem_7.Take_Skip_Rope.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 7. Take-Skip Rope\obj\Debug\Problem 7. Take-Skip Rope.csprojResolveAssemblyReference.cache

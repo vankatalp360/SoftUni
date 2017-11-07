@@ -1,6 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\5. Match Numbers\bin\Debug\_5.Match_Numbers.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\5. Match Numbers\bin\Debug\_5.Match_Numbers.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\5. Match Numbers\bin\Debug\_5.Match_Numbers.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\5. Match Numbers\obj\Debug\5. Match Numbers.csprojResolveAssemblyReference.cache
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\5. Match Numbers\obj\Debug\_5.Match_Numbers.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\5. Match Numbers\obj\Debug\_5.Match_Numbers.pdb

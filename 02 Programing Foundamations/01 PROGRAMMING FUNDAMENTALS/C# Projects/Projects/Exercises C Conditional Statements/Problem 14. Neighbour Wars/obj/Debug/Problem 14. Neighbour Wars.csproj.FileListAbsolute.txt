@@ -1,6 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 14. Neighbour Wars\bin\Debug\Problem_14.Neighbour_Wars.exe.config
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 14. Neighbour Wars\bin\Debug\Problem_14.Neighbour_Wars.exe
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 14. Neighbour Wars\bin\Debug\Problem_14.Neighbour_Wars.pdb
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 14. Neighbour Wars\obj\Debug\Problem 14. Neighbour Wars.csprojResolveAssemblyReference.cache
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 14. Neighbour Wars\obj\Debug\Problem_14.Neighbour_Wars.exe
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Problem 14. Neighbour Wars\obj\Debug\Problem_14.Neighbour_Wars.pdb

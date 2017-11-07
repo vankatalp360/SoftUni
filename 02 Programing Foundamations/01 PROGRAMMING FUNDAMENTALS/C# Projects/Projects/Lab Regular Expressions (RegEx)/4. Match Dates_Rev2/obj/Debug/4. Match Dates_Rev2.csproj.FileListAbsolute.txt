@@ -1,6 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\4. Match Dates_Rev2\bin\Debug\_4.Match_Dates_Rev2.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\4. Match Dates_Rev2\bin\Debug\_4.Match_Dates_Rev2.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\4. Match Dates_Rev2\bin\Debug\_4.Match_Dates_Rev2.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\4. Match Dates_Rev2\obj\Debug\4. Match Dates_Rev2.csprojResolveAssemblyReference.cache
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\4. Match Dates_Rev2\obj\Debug\_4.Match_Dates_Rev2.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\4. Match Dates_Rev2\obj\Debug\_4.Match_Dates_Rev2.pdb

@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.pdb
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 4. Grab and Go\obj\Debug\Problem 4. Grab and Go.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.pdb

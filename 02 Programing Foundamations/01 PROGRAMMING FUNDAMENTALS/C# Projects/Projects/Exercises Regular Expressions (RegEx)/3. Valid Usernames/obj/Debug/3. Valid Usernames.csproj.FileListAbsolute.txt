@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\3. Valid Usernames\bin\Debug\_3.Valid_Usernames.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\3. Valid Usernames\bin\Debug\_3.Valid_Usernames.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\3. Valid Usernames\bin\Debug\_3.Valid_Usernames.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\3. Valid Usernames\obj\Debug\3. Valid Usernames.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\3. Valid Usernames\obj\Debug\_3.Valid_Usernames.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\3. Valid Usernames\obj\Debug\_3.Valid_Usernames.pdb

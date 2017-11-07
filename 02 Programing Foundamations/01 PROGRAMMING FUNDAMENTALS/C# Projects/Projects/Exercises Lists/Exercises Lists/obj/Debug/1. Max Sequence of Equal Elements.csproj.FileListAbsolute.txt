@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\Exercises Lists\bin\Debug\Exercises Lists.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\Exercises Lists\bin\Debug\Exercises Lists.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\Exercises Lists\bin\Debug\Exercises Lists.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\Exercises Lists\obj\Debug\1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\Exercises Lists\obj\Debug\Exercises Lists.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\Exercises Lists\obj\Debug\Exercises Lists.pdb

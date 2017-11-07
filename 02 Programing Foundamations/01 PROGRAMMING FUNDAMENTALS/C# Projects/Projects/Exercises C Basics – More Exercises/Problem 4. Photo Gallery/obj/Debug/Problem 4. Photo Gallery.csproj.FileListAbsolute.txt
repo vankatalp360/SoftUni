@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 4. Photo Gallery\obj\Debug\Problem 4. Photo Gallery.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.pdb

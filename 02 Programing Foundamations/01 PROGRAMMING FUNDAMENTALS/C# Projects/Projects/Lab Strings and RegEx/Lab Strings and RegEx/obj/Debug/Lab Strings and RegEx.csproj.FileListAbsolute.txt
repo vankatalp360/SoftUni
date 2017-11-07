@@ -1,1 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\bin\Debug\Lab Strings and RegEx.exe.config

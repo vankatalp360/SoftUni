@@ -1,5 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 11. Test Numbers\bin\Debug\Problem_11.Test_Numbers.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 11. Test Numbers\bin\Debug\Problem_11.Test_Numbers.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 11. Test Numbers\bin\Debug\Problem_11.Test_Numbers.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 11. Test Numbers\obj\Debug\Problem_11.Test_Numbers.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 11. Test Numbers\obj\Debug\Problem_11.Test_Numbers.pdb

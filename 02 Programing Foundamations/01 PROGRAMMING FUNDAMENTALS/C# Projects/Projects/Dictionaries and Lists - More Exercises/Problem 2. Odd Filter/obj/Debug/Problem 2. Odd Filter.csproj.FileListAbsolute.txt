@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.exe
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\obj\Debug\Problem_2.Odd_Filter.exe
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 2. Odd Filter\obj\Debug\Problem_2.Odd_Filter.pdb

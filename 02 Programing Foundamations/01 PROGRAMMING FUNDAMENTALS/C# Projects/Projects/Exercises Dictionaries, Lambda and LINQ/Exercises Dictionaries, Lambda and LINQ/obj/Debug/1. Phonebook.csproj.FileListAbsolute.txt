@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\bin\Debug\Exercises Dictionaries, Lambda and LINQ.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\bin\Debug\Exercises Dictionaries, Lambda and LINQ.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\bin\Debug\Exercises Dictionaries, Lambda and LINQ.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\obj\Debug\1. Phonebook.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\obj\Debug\Exercises Dictionaries, Lambda and LINQ.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\obj\Debug\Exercises Dictionaries, Lambda and LINQ.pdb

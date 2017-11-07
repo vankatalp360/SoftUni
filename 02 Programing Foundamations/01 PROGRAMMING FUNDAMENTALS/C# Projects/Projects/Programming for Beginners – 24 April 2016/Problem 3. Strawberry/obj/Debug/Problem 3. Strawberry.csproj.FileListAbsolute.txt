@@ -1,5 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 3. Strawberry\bin\Debug\Problem_3.Strawberry.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 3. Strawberry\bin\Debug\Problem_3.Strawberry.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 3. Strawberry\bin\Debug\Problem_3.Strawberry.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 3. Strawberry\obj\Debug\Problem_3.Strawberry.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Programming for Beginners – 24 April 2016\Problem 3. Strawberry\obj\Debug\Problem_3.Strawberry.pdb

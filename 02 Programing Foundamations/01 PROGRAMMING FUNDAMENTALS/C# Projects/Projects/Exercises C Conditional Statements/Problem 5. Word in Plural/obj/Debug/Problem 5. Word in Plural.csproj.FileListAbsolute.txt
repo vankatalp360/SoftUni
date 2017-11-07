@@ -1,5 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 5. Word in Plural\bin\Debug\Problem_5.Word_in_Plural.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 5. Word in Plural\bin\Debug\Problem_5.Word_in_Plural.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 5. Word in Plural\bin\Debug\Problem_5.Word_in_Plural.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 5. Word in Plural\obj\Debug\Problem_5.Word_in_Plural.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises C Conditional Statements\Problem 5. Word in Plural\obj\Debug\Problem_5.Word_in_Plural.pdb

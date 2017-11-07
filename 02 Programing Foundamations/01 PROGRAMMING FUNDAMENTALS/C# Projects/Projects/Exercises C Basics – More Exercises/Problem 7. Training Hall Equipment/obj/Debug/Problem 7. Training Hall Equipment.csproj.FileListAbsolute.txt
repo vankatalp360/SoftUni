@@ -1,5 +1,0 @@
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe.config
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.pdb
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.exe
-C:\Users\stany\documents\visual studio 2015\Projects\Exercises C Basics – More Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.pdb

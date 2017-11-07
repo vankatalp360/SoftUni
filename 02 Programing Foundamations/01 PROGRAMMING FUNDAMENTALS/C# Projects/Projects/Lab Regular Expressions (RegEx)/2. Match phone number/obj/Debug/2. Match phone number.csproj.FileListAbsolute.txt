@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\2. Match phone number\bin\Debug\_2.Match_phone_number.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\2. Match phone number\bin\Debug\_2.Match_phone_number.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\2. Match phone number\bin\Debug\_2.Match_phone_number.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\2. Match phone number\obj\Debug\2. Match phone number.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\2. Match phone number\obj\Debug\_2.Match_phone_number.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\2. Match phone number\obj\Debug\_2.Match_phone_number.pdb

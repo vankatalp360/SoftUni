@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Phonebook Update Rev2\bin\Debug\Phonebook Update Rev2.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Phonebook Update Rev2\bin\Debug\Phonebook Update Rev2.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Phonebook Update Rev2\bin\Debug\Phonebook Update Rev2.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Phonebook Update Rev2\obj\Debug\Phonebook Update Rev2.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Phonebook Update Rev2\obj\Debug\Phonebook Update Rev2.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Phonebook Update Rev2\obj\Debug\Phonebook Update Rev2.pdb

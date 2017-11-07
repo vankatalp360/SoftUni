@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\6. Match phone number\bin\Debug\_6.Match_phone_number.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\6. Match phone number\bin\Debug\_6.Match_phone_number.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\6. Match phone number\bin\Debug\_6.Match_phone_number.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\6. Match phone number\obj\Debug\_6.Match_phone_number.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\6. Match phone number\obj\Debug\_6.Match_phone_number.pdb

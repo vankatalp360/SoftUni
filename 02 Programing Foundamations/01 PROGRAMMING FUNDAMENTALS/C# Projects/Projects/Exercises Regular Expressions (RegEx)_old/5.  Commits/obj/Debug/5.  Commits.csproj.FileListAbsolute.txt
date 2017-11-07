@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits\bin\Debug\_5.Commits.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits\bin\Debug\_5.Commits.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits\bin\Debug\_5.Commits.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits\obj\Debug\5.  Commits.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits\obj\Debug\_5.Commits.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)_old\5.  Commits\obj\Debug\_5.Commits.pdb

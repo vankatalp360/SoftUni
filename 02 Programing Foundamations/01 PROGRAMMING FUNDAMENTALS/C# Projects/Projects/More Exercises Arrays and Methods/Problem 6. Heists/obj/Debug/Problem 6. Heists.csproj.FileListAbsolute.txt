@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 6. Heists\bin\Debug\Problem_6.Heists.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 6. Heists\bin\Debug\Problem_6.Heists.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 6. Heists\bin\Debug\Problem_6.Heists.pdb
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 6. Heists\obj\Debug\Problem 6. Heists.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 6. Heists\obj\Debug\Problem_6.Heists.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 6. Heists\obj\Debug\Problem_6.Heists.pdb

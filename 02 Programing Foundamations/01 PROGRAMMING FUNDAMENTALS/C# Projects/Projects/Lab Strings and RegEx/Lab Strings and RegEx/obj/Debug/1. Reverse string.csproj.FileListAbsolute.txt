@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\bin\Debug\Lab Strings and RegEx.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\bin\Debug\Lab Strings and RegEx.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\bin\Debug\Lab Strings and RegEx.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\obj\Debug\1. Reverse string.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\obj\Debug\Lab Strings and RegEx.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\Lab Strings and RegEx\obj\Debug\Lab Strings and RegEx.pdb

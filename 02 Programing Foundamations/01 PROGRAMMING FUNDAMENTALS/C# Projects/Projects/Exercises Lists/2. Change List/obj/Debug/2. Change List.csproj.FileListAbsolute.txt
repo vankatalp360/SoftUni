@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\2. Change List\bin\Debug\_2.Change_List.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\2. Change List\bin\Debug\_2.Change_List.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\2. Change List\bin\Debug\_2.Change_List.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\2. Change List\obj\Debug\_2.Change_List.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\2. Change List\obj\Debug\_2.Change_List.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\2. Change List\obj\Debug\2. Change List.csprojResolveAssemblyReference.cache

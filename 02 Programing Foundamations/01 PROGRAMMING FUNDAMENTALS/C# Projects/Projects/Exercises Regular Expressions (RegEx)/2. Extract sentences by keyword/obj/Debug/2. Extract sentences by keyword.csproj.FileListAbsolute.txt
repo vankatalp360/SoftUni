@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\2. Extract sentences by keyword\obj\Debug\2. Extract sentences by keyword.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\2. Extract sentences by keyword\obj\Debug\_2.Extract_sentences_by_keyword.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\2. Extract sentences by keyword\obj\Debug\_2.Extract_sentences_by_keyword.pdb

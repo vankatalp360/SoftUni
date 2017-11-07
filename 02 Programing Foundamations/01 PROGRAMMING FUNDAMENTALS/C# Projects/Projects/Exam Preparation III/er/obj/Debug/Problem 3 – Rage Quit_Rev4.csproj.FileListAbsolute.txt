@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\er\bin\Debug\er.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\er\bin\Debug\er.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\er\bin\Debug\er.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\er\obj\Debug\er.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\er\obj\Debug\er.pdb

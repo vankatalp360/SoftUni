@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\3. Search for a Number\bin\Debug\_3.Search_for_a_Number.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\3. Search for a Number\bin\Debug\_3.Search_for_a_Number.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\3. Search for a Number\bin\Debug\_3.Search_for_a_Number.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\3. Search for a Number\obj\Debug\3. Search for a Number.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\3. Search for a Number\obj\Debug\_3.Search_for_a_Number.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\3. Search for a Number\obj\Debug\_3.Search_for_a_Number.pdb

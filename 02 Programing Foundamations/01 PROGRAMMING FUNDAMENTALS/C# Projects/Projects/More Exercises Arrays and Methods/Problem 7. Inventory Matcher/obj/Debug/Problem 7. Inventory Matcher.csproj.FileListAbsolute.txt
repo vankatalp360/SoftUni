@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\bin\Debug\Problem_7.Inventory_Matcher.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\bin\Debug\Problem_7.Inventory_Matcher.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\bin\Debug\Problem_7.Inventory_Matcher.pdb
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\obj\Debug\Problem_7.Inventory_Matcher.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\obj\Debug\Problem_7.Inventory_Matcher.pdb

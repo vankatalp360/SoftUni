@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\5. Array Manipulator\obj\Debug\5. Array Manipulator.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\5. Array Manipulator\obj\Debug\_5.Array_Manipulator.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Lists\5. Array Manipulator\obj\Debug\_5.Array_Manipulator.pdb

@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\6. Connected Areas in a Matrix\bin\Debug\_6.Connected_Areas_in_a_Matrix.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\6. Connected Areas in a Matrix\bin\Debug\_6.Connected_Areas_in_a_Matrix.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\6. Connected Areas in a Matrix\bin\Debug\_6.Connected_Areas_in_a_Matrix.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\6. Connected Areas in a Matrix\obj\Debug\6. Connected Areas in a Matrix.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\6. Connected Areas in a Matrix\obj\Debug\_6.Connected_Areas_in_a_Matrix.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Exercises Recursion\6. Connected Areas in a Matrix\obj\Debug\_6.Connected_Areas_in_a_Matrix.pdb

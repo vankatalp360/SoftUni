@@ -1,6 +1,0 @@
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 12. Legendary Farming\bin\Debug\Problem_12.Legendary_Farming.exe.config
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 12. Legendary Farming\bin\Debug\Problem_12.Legendary_Farming.exe
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 12. Legendary Farming\bin\Debug\Problem_12.Legendary_Farming.pdb
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 12. Legendary Farming\obj\Debug\Problem 12. Legendary Farming.csproj.CoreCompileInputs.cache
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 12. Legendary Farming\obj\Debug\Problem_12.Legendary_Farming.exe
-D:\C# Projects\repos\Exercises Sets And Dictionaries\Problem 12. Legendary Farming\obj\Debug\Problem_12.Legendary_Farming.pdb

@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\4. Average Grades\bin\Debug\_4.Average_Grades.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\4. Average Grades\bin\Debug\_4.Average_Grades.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\4. Average Grades\bin\Debug\_4.Average_Grades.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\4. Average Grades\obj\Debug\4. Average Grades.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\4. Average Grades\obj\Debug\_4.Average_Grades.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Objects and Classes\4. Average Grades\obj\Debug\_4.Average_Grades.pdb

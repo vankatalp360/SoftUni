@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Query Mess\bin\Debug\_4.Query_Mess.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Query Mess\bin\Debug\_4.Query_Mess.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Query Mess\bin\Debug\_4.Query_Mess.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Query Mess\obj\Debug\4. Query Mess.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Query Mess\obj\Debug\_4.Query_Mess.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Regular Expressions (RegEx)\4. Query Mess\obj\Debug\_4.Query_Mess.pdb

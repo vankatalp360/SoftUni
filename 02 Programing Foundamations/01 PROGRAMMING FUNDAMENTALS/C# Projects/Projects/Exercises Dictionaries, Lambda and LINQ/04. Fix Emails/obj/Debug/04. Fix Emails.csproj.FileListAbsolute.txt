@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb

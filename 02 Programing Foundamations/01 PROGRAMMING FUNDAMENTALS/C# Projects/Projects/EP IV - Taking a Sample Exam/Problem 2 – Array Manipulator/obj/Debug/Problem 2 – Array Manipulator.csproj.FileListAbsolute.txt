@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 2 – Array Manipulator\bin\Debug\Problem 2 – Array Manipulator.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 2 – Array Manipulator\bin\Debug\Problem 2 – Array Manipulator.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 2 – Array Manipulator\bin\Debug\Problem 2 – Array Manipulator.pdb
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.pdb
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.csprojResolveAssemblyReference.cache

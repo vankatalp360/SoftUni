@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 9. Jump Around\bin\Debug\Problem_9.Jump_Around.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 9. Jump Around\bin\Debug\Problem_9.Jump_Around.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 9. Jump Around\bin\Debug\Problem_9.Jump_Around.pdb
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 9. Jump Around\obj\Debug\Problem_9.Jump_Around.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 9. Jump Around\obj\Debug\Problem_9.Jump_Around.pdb

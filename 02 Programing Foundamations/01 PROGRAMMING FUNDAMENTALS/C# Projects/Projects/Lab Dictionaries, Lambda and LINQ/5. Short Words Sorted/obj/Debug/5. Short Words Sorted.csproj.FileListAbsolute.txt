@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\5. Short Words Sorted\bin\Debug\_5.Short_Words_Sorted.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\5. Short Words Sorted\bin\Debug\_5.Short_Words_Sorted.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\5. Short Words Sorted\bin\Debug\_5.Short_Words_Sorted.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\5. Short Words Sorted\obj\Debug\_5.Short_Words_Sorted.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\5. Short Words Sorted\obj\Debug\_5.Short_Words_Sorted.pdb

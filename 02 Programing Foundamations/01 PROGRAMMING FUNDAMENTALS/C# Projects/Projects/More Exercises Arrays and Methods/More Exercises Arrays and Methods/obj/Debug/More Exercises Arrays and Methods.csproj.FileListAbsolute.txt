@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\bin\Debug\More Exercises Arrays and Methods.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\bin\Debug\More Exercises Arrays and Methods.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\bin\Debug\More Exercises Arrays and Methods.pdb
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\obj\Debug\More Exercises Arrays and Methods.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\obj\Debug\More Exercises Arrays and Methods.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\obj\Debug\More Exercises Arrays and Methods.pdb

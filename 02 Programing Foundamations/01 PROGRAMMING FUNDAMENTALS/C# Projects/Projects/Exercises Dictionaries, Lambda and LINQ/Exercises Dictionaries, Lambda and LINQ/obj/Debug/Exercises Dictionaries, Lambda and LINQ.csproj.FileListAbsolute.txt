@@ -1,1 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\Exercises Dictionaries, Lambda and LINQ\bin\Debug\Exercises Dictionaries, Lambda and LINQ.exe.config

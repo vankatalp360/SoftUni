@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.pdb
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 3. Safe Manipulation\obj\Debug\Problem_3.Safe_Manipulation.exe
-c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 3. Safe Manipulation\obj\Debug\Problem_3.Safe_Manipulation.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\More Exercises Arrays and Methods\Problem 3. Safe Manipulation\obj\Debug\Problem 3. Safe Manipulation.csprojResolveAssemblyReference.cache

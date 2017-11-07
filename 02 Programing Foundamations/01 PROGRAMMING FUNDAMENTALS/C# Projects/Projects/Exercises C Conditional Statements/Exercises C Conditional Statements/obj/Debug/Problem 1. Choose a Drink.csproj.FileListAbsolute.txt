@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Exercises C Conditional Statements\bin\Debug\Exercises C Conditional Statements.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Exercises C Conditional Statements\bin\Debug\Exercises C Conditional Statements.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Exercises C Conditional Statements\bin\Debug\Exercises C Conditional Statements.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Exercises C Conditional Statements\obj\Debug\Problem 1. Choose a Drink.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Exercises C Conditional Statements\obj\Debug\Exercises C Conditional Statements.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises C Conditional Statements\Exercises C Conditional Statements\obj\Debug\Exercises C Conditional Statements.pdb

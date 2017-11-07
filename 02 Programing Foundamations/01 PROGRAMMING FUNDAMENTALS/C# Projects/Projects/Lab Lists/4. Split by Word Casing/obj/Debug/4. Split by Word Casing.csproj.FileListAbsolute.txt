@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.pdb

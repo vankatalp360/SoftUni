@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\Problem 2 – Command Interpreter\bin\Debug\Problem 2 – Command Interpreter.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\Problem 2 – Command Interpreter\bin\Debug\Problem 2 – Command Interpreter.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\Problem 2 – Command Interpreter\bin\Debug\Problem 2 – Command Interpreter.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\Problem 2 – Command Interpreter\obj\Debug\Problem 2 – Command Interpreter.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\Problem 2 – Command Interpreter\obj\Debug\Problem 2 – Command Interpreter.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exam Preparation III\Problem 2 – Command Interpreter\obj\Debug\Problem 2 – Command Interpreter.pdb

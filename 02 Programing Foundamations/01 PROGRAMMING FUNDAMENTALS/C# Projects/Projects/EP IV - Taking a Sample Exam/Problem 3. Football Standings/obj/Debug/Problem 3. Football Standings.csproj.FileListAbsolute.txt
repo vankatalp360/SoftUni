@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.pdb
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.pdb

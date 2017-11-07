@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Employee Data\bin\Debug\2017.05.22 - PF - Employee Data.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Employee Data\bin\Debug\2017.05.22 - PF - Employee Data.exe
-c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Employee Data\bin\Debug\2017.05.22 - PF - Employee Data.pdb
-c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Employee Data\obj\Debug\2017.05.22 - PF - Employee Data.exe
-c:\users\stany\documents\visual studio 2015\Projects\2017.05.22 - PF - Greating\2017.05.22 - PF - Employee Data\obj\Debug\2017.05.22 - PF - Employee Data.pdb

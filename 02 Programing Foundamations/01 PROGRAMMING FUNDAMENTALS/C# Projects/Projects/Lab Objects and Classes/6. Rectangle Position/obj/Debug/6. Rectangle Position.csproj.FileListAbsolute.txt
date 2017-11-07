@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\6. Rectangle Position\obj\Debug\6. Rectangle Position.csprojResolveAssemblyReference.cache

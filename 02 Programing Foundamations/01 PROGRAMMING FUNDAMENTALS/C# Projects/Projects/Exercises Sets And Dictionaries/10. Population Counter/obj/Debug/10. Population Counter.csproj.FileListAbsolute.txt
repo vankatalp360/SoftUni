@@ -1,6 +1,0 @@
-D:\C# Projects\repos\Exercises Sets And Dictionaries\10. Population Counter\bin\Debug\_10.Population_Counter.exe.config
-D:\C# Projects\repos\Exercises Sets And Dictionaries\10. Population Counter\bin\Debug\_10.Population_Counter.exe
-D:\C# Projects\repos\Exercises Sets And Dictionaries\10. Population Counter\bin\Debug\_10.Population_Counter.pdb
-D:\C# Projects\repos\Exercises Sets And Dictionaries\10. Population Counter\obj\Debug\10. Population Counter.csproj.CoreCompileInputs.cache
-D:\C# Projects\repos\Exercises Sets And Dictionaries\10. Population Counter\obj\Debug\_10.Population_Counter.exe
-D:\C# Projects\repos\Exercises Sets And Dictionaries\10. Population Counter\obj\Debug\_10.Population_Counter.pdb

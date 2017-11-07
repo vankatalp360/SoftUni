@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\5. Generating Combinations\bin\Debug\_5.Generating_Combinations.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\5. Generating Combinations\bin\Debug\_5.Generating_Combinations.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\5. Generating Combinations\bin\Debug\_5.Generating_Combinations.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\5. Generating Combinations\obj\Debug\5. Generating Combinations.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\5. Generating Combinations\obj\Debug\_5.Generating_Combinations.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\5. Generating Combinations\obj\Debug\_5.Generating_Combinations.pdb

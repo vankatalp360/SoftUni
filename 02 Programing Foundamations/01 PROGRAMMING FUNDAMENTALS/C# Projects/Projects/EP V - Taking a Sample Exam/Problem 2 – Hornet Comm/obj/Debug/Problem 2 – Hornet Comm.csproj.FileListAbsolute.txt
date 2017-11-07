@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 2 – Hornet Comm\bin\Debug\Problem 2 – Hornet Comm.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 2 – Hornet Comm\bin\Debug\Problem 2 – Hornet Comm.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 2 – Hornet Comm\bin\Debug\Problem 2 – Hornet Comm.pdb
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 2 – Hornet Comm\obj\Debug\Problem 2 – Hornet Comm.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 2 – Hornet Comm\obj\Debug\Problem 2 – Hornet Comm.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP V - Taking a Sample Exam\Problem 2 – Hornet Comm\obj\Debug\Problem 2 – Hornet Comm.pdb

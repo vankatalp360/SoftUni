@@ -1,6 +1,0 @@
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\5. Folder Size\bin\Debug\_5.Folder_Size.exe.config
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\5. Folder Size\bin\Debug\_5.Folder_Size.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\5. Folder Size\bin\Debug\_5.Folder_Size.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\5. Folder Size\obj\Debug\_5.Folder_Size.exe
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\5. Folder Size\obj\Debug\_5.Folder_Size.pdb
-C:\Users\stany\Documents\Visual Studio 2015\Projects\Exercises Files, Directories\5. Folder Size\obj\Debug\5. Folder Size.csprojResolveAssemblyReference.cache

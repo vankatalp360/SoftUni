@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 4 – Cubic’s Messages\bin\Debug\Problem 4 – Cubic’s Messages.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 4 – Cubic’s Messages\bin\Debug\Problem 4 – Cubic’s Messages.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 4 – Cubic’s Messages\bin\Debug\Problem 4 – Cubic’s Messages.pdb
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.exe
-c:\users\stany\documents\visual studio 2015\Projects\EP IV - Taking a Sample Exam\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.pdb

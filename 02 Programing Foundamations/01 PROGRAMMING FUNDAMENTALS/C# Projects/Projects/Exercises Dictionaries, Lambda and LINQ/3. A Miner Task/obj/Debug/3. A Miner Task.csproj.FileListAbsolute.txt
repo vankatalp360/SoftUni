@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\3. A Miner Task\obj\Debug\_3.A_Miner_Task.exe
-c:\users\stany\documents\visual studio 2015\Projects\Exercises Dictionaries, Lambda and LINQ\3. A Miner Task\obj\Debug\_3.A_Miner_Task.pdb

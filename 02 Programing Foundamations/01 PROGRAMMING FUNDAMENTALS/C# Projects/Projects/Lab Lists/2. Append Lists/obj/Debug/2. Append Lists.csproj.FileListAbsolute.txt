@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\2. Append Lists\bin\Debug\_2.Append_Lists.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\2. Append Lists\bin\Debug\_2.Append_Lists.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\2. Append Lists\bin\Debug\_2.Append_Lists.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\2. Append Lists\obj\Debug\_2.Append_Lists.exe
-c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\2. Append Lists\obj\Debug\_2.Append_Lists.pdb

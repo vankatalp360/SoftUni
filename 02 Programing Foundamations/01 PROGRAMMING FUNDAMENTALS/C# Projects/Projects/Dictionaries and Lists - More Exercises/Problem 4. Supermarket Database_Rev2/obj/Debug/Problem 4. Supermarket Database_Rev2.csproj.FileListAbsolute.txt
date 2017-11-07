@@ -1,6 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database_Rev2\bin\Debug\Problem_4.Supermarket_Database_Rev2.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database_Rev2\bin\Debug\Problem_4.Supermarket_Database_Rev2.exe
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database_Rev2\bin\Debug\Problem_4.Supermarket_Database_Rev2.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database_Rev2\obj\Debug\Problem 4. Supermarket Database_Rev2.csprojResolveAssemblyReference.cache
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database_Rev2\obj\Debug\Problem_4.Supermarket_Database_Rev2.exe
-c:\users\stany\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\Problem 4. Supermarket Database_Rev2\obj\Debug\Problem_4.Supermarket_Database_Rev2.pdb

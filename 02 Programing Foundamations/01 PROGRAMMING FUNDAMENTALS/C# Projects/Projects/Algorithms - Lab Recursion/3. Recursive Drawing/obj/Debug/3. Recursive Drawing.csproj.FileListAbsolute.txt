@@ -1,5 +1,0 @@
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\3. Recursive Drawing\bin\Debug\_3.Recursive_Drawing.exe.config
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\3. Recursive Drawing\bin\Debug\_3.Recursive_Drawing.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\3. Recursive Drawing\bin\Debug\_3.Recursive_Drawing.pdb
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\3. Recursive Drawing\obj\Debug\_3.Recursive_Drawing.exe
-c:\users\stany\documents\visual studio 2015\Projects\Algorithms - Lab Recursion\3. Recursive Drawing\obj\Debug\_3.Recursive_Drawing.pdb
