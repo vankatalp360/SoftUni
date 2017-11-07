@@ -1,0 +1,1 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\7. Replace a tag\bin\Debug\_7.Replace_a_tag.exe.config

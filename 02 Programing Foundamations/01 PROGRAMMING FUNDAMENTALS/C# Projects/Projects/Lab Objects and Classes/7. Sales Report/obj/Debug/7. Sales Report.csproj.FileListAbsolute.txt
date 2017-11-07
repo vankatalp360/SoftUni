@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report\bin\Debug\_7.Sales_Report.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report\bin\Debug\_7.Sales_Report.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report\bin\Debug\_7.Sales_Report.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report\obj\Debug\_7.Sales_Report.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report\obj\Debug\_7.Sales_Report.pdb

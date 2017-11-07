@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\6. Square Numbers\bin\Debug\_6.Square_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\6. Square Numbers\obj\Debug\_6.Square_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\6. Square Numbers\obj\Debug\_6.Square_Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\2. Count substring occurrences\bin\Debug\_2.Count_substring_occurrences.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\2. Count substring occurrences\bin\Debug\_2.Count_substring_occurrences.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\2. Count substring occurrences\bin\Debug\_2.Count_substring_occurrences.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\2. Count substring occurrences\obj\Debug\_2.Count_substring_occurrences.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\2. Count substring occurrences\obj\Debug\_2.Count_substring_occurrences.pdb

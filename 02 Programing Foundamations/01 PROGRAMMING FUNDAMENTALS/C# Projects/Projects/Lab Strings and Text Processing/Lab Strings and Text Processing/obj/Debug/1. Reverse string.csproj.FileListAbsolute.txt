@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and Text Processing\Lab Strings and Text Processing\bin\Debug\Lab Strings and Text Processing.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and Text Processing\Lab Strings and Text Processing\bin\Debug\Lab Strings and Text Processing.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and Text Processing\Lab Strings and Text Processing\bin\Debug\Lab Strings and Text Processing.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and Text Processing\Lab Strings and Text Processing\obj\Debug\Lab Strings and Text Processing.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and Text Processing\Lab Strings and Text Processing\obj\Debug\Lab Strings and Text Processing.pdb

@@ -1,0 +1,6 @@
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\6. Replace a Tag\bin\Debug\_6.Replace_a_Tag.exe.config
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\6. Replace a Tag\bin\Debug\_6.Replace_a_Tag.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\6. Replace a Tag\bin\Debug\_6.Replace_a_Tag.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\6. Replace a Tag\obj\Debug\6. Replace a Tag.csprojResolveAssemblyReference.cache
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\6. Replace a Tag\obj\Debug\_6.Replace_a_Tag.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\Lab Regular Expressions (RegEx)\6. Replace a Tag\obj\Debug\_6.Replace_a_Tag.pdb

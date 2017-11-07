@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag_Rev2\bin\Debug\_7.Replace_a_tag_Rev2.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag_Rev2\bin\Debug\_7.Replace_a_tag_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag_Rev2\bin\Debug\_7.Replace_a_tag_Rev2.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag_Rev2\obj\Debug\_7.Replace_a_tag_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag_Rev2\obj\Debug\_7.Replace_a_tag_Rev2.pdb

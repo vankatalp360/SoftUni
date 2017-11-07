@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\Lab Regular Expressions (RegEx)\bin\Debug\Lab Regular Expressions (RegEx).exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\Lab Regular Expressions (RegEx)\bin\Debug\Lab Regular Expressions (RegEx).exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\Lab Regular Expressions (RegEx)\bin\Debug\Lab Regular Expressions (RegEx).pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\Lab Regular Expressions (RegEx)\obj\Debug\1. Match full name.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\Lab Regular Expressions (RegEx)\obj\Debug\Lab Regular Expressions (RegEx).exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Regular Expressions (RegEx)\Lab Regular Expressions (RegEx)\obj\Debug\Lab Regular Expressions (RegEx).pdb

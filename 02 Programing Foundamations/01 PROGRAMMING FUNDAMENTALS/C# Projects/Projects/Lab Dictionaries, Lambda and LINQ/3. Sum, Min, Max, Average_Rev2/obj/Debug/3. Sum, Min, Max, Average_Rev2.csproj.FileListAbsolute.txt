@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\3. Sum, Min, Max, Average_Rev2\bin\Debug\_3.Sum__Min__Max__Average_Rev2.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\3. Sum, Min, Max, Average_Rev2\bin\Debug\_3.Sum__Min__Max__Average_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\3. Sum, Min, Max, Average_Rev2\bin\Debug\_3.Sum__Min__Max__Average_Rev2.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\3. Sum, Min, Max, Average_Rev2\obj\Debug\_3.Sum__Min__Max__Average_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\3. Sum, Min, Max, Average_Rev2\obj\Debug\_3.Sum__Min__Max__Average_Rev2.pdb

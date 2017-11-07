@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\6. Fold and Sum\bin\Debug\_6.Fold_and_Sum.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\6. Fold and Sum\obj\Debug\_6.Fold_and_Sum.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\6. Fold and Sum\obj\Debug\_6.Fold_and_Sum.pdb

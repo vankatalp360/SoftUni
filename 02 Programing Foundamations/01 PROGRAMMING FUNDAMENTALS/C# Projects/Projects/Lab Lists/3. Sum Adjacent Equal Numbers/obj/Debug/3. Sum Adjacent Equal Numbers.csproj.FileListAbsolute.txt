@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\3. Sum Adjacent Equal Numbers\obj\Debug\3. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\7. Count Numbers\bin\Debug\_7.Count_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\7. Count Numbers\bin\Debug\_7.Count_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\7. Count Numbers\bin\Debug\_7.Count_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\7. Count Numbers\obj\Debug\_7.Count_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\7. Count Numbers\obj\Debug\_7.Count_Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\bin\Debug\More Exercises Arrays and Methods.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\obj\Debug\More Exercises Arrays and Methods.exe
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\obj\Debug\More Exercises Arrays and Methods.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\bin\Debug\More Exercises Arrays and Methods.exe
+C:\Users\stany\Documents\Visual Studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\bin\Debug\More Exercises Arrays and Methods.pdb
+C:\Users\stany\Documents\Visual Studio 2015\Projects\More Exercises Arrays and Methods\More Exercises Arrays and Methods\obj\Debug\Problem 1. Array Statistics.csprojResolveAssemblyReference.cache

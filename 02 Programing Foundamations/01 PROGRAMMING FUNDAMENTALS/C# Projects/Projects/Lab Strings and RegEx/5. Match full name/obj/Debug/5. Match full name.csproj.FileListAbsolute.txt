@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\5. Match full name\bin\Debug\_5.Match_full_name.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\5. Match full name\bin\Debug\_5.Match_full_name.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\5. Match full name\bin\Debug\_5.Match_full_name.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\5. Match full name\obj\Debug\_5.Match_full_name.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\5. Match full name\obj\Debug\_5.Match_full_name.pdb

@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 8.  Upgraded Matcher\bin\Debug\Problem_8.Upgraded_Matcher.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 8.  Upgraded Matcher\bin\Debug\Problem_8.Upgraded_Matcher.exe
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 8.  Upgraded Matcher\bin\Debug\Problem_8.Upgraded_Matcher.pdb
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 8.  Upgraded Matcher\obj\Debug\Problem_8.Upgraded_Matcher.exe
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 8.  Upgraded Matcher\obj\Debug\Problem_8.Upgraded_Matcher.pdb
+c:\users\stany\documents\visual studio 2015\Projects\More Exercises Arrays and Methods\Problem 8.  Upgraded Matcher\obj\Debug\Problem 8.  Upgraded Matcher.csprojResolveAssemblyReference.cache

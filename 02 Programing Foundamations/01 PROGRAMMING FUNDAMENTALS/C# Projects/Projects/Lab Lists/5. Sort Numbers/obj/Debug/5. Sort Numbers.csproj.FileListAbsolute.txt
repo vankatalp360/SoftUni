@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Lists\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.pdb

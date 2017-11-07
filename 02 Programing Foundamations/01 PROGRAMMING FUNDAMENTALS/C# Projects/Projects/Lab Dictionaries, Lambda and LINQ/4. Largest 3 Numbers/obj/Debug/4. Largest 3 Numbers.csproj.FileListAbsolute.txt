@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\_4.Largest_3_Numbers.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\4. Largest 3 Numbers\obj\Debug\_4.Largest_3_Numbers.pdb

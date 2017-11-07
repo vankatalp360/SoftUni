@@ -1,0 +1,1 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\6. Fold and Sum_rev2\bin\Debug\_6.Fold_and_Sum_rev2.exe.config

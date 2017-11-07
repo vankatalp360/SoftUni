@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\3. Text filter\bin\Debug\_3.Text_filter.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\3. Text filter\bin\Debug\_3.Text_filter.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\3. Text filter\bin\Debug\_3.Text_filter.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\3. Text filter\obj\Debug\_3.Text_filter.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\3. Text filter\obj\Debug\_3.Text_filter.pdb

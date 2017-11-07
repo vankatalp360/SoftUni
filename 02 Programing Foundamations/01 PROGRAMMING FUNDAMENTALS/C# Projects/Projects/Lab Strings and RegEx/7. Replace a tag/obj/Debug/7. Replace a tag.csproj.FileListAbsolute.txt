@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag\bin\Debug\_7.Replace_a_tag.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag\bin\Debug\_7.Replace_a_tag.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag\bin\Debug\_7.Replace_a_tag.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag\obj\Debug\7. Replace a tag.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag\obj\Debug\_7.Replace_a_tag.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\7. Replace a tag\obj\Debug\_7.Replace_a_tag.pdb

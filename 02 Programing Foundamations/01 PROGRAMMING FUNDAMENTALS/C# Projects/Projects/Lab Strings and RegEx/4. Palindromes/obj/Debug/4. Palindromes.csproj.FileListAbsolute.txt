@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\4. Palindromes\bin\Debug\_4.Palindromes.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\4. Palindromes\bin\Debug\_4.Palindromes.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\4. Palindromes\bin\Debug\_4.Palindromes.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\4. Palindromes\obj\Debug\_4.Palindromes.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Strings and RegEx\4. Palindromes\obj\Debug\_4.Palindromes.pdb

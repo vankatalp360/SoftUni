@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\3. Big Factorial\bin\Debug\_3.Big_Factorial.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\3. Big Factorial\bin\Debug\_3.Big_Factorial.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\3. Big Factorial\bin\Debug\_3.Big_Factorial.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\3. Big Factorial\obj\Debug\3. Big Factorial.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\3. Big Factorial\obj\Debug\_3.Big_Factorial.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\3. Big Factorial\obj\Debug\_3.Big_Factorial.pdb

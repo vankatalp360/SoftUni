@@ -1,0 +1,1 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\1. Count Real Numbers_Rev2\bin\Debug\_1.Count_Real_Numbers_Rev2.exe.config

@@ -1,0 +1,6 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report_Rev2\bin\Debug\_7.Sales_Report_Rev2.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report_Rev2\bin\Debug\_7.Sales_Report_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report_Rev2\bin\Debug\_7.Sales_Report_Rev2.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report_Rev2\obj\Debug\7. Sales Report_Rev2.csprojResolveAssemblyReference.cache
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report_Rev2\obj\Debug\_7.Sales_Report_Rev2.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\7. Sales Report_Rev2\obj\Debug\_7.Sales_Report_Rev2.pdb

@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Dictionaries, Lambda and LINQ\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.pdb

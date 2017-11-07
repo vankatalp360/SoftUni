@@ -1,0 +1,5 @@
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe.config
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.pdb
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.exe
+c:\users\stany\documents\visual studio 2015\Projects\Lab Objects and Classes\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.pdb
