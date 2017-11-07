@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SoftUni Blog</title>
+    <link rel="stylesheet" href="Styles/style.css" type="text/css">
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+</head>
+<body>
+<header>
+    <div class="navbar navbar-default navbar-fixed-top text-uppercase">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand">SoftUni Blog</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Welcome(User)</a> </li>
+                    <li><a href="createnewpost.html">New Post</a> </li>
+                    <li><a href="index.html">Logout</a> </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+</header>
+
+<main>
+    <div class="container body-content">
+        <div class="row">
+            <div class="col-md-6">
+                <article>
+                    <header>
+                        <h2>Why the Right Storage Infrastructure Is So Critical for DBAs and IT Leaders</h2>
+                    </header>
+                    <p>
+                        I spend a lot of time talking with CIOs around the world,
+                        on the infrastructure side of the house as well as the database/enterprise
+                        app side of the house. I hear first-hand, from DBAs and IT infrastructure
+                        teams alike, about the challenges they face with choosing the right
+                        infrastructure for their database and enterprise app environments.
+                        I consistently hear stories of the difficulties of meeting service-level agreements,
+                        of meeting performance objectives, of providing continuous availability, availability
+                        to recover quickly, of driving down TCO and leveraging the benefits of virtualization.
+                        Customers tell me they want a virtual, open architecture that will allow them to
+                        leverage best-in-class technologies, but are concerned about the performance impact this
+                        may have on their production databases and applications.
+                    </p>
+                    <p>
+                        At EMC World, I told you how EMC faced this challenge as we standardized our own
+                        business-critical applications infrastructure that included Oracle, SAP, and Exchange.
+                        Like many of our customers, our experience proved that virtual infrastructure can
+                        achieve the standardization gains across IT while being able to maximize performance
+                        for production applications and databases.
+                    </p>
+                    <p>
+                        I provided specific examples of this in my keynote address. Just a small amount of flash
+                        in virtualized Oracle databases in online transaction processing (OLTP) and Data
+                        Warehouse workloads delivers extreme levels of performance.  How much? 3.7 million
+                        random I/Os per second for Oracle OLTP environments at very low latencies and over
+                        32 GB/second read scan performance with over 21 TB/hour data loads for Oracle data warehouses.
+                        More importantly, this standardized approach of flash and virtualization makes a measurable impact
+                        on long-term TCO.
+                    </p>
+                    <small class="author">
+                        Stanislav Petrov
+                    </small>
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs" href="viewpost.html">Read more &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <div class="container modal-footer">
+        <p>&copy; 2017 - Software University Foundation</p>
+    </div>
+</footer>
+</body>
+</html>

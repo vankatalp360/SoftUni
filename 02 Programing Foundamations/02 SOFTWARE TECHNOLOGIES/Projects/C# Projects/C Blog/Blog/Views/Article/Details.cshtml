@@ -1,0 +1,35 @@
+﻿@model Blog.Models.Article
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container">
+    <article>
+        <header>
+            <h2>
+                @Model.Title
+            </h2>
+        </header>
+        <p>
+            @Model.Content
+        </p>
+        <small class="author">
+            --author @Model.Author.FullName
+        </small>
+        <div>
+            <small class="author">
+                --date created @Model.Date.ToString("MMMM dd, yyyy")
+            </small>
+        </div>
+        <footer class="pull-right">
+@if (Request.IsAuthenticated&&(Model.isAuthor(this.User.Identity.Name)||User.IsInRole("Admin")))
+{
+            @Html.ActionLink("Edit", "Edit", "Article", new { @id = Model.Id }, new { @class = "btn btn-success btn-xs" })
+            @Html.ActionLink("Delete", "Delete", "Article", new { @id = Model.Id }, new { @class = "btn btn-danger btn-xs" })
+}
+            @Html.ActionLink("Back", "Index", "Article", null, new { @class = "btn btn-default btn-xs" })
+        </footer>
+    </article>
+</div>
+<hr />
