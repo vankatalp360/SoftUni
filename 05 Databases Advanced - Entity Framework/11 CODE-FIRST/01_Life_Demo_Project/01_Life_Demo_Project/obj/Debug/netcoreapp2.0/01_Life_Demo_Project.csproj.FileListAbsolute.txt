@@ -1,0 +1,11 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\bin\Debug\netcoreapp2.0\01_Life_Demo_Project.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\bin\Debug\netcoreapp2.0\01_Life_Demo_Project.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\bin\Debug\netcoreapp2.0\01_Life_Demo_Project.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\bin\Debug\netcoreapp2.0\01_Life_Demo_Project.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\obj\Debug\netcoreapp2.0\01_Life_Demo_Project.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\obj\Debug\netcoreapp2.0\01_Life_Demo_Project.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\obj\Debug\netcoreapp2.0\01_Life_Demo_Project.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\obj\Debug\netcoreapp2.0\01_Life_Demo_Project.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\bin\Debug\netcoreapp2.0\01_Life_Demo_Project.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\obj\Debug\netcoreapp2.0\01_Life_Demo_Project.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\11 CODE-FIRST\01_Life_Demo_Project\01_Life_Demo_Project\obj\Debug\netcoreapp2.0\01_Life_Demo_Project.pdb
