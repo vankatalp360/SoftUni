@@ -22,7 +22,9 @@ namespace _01_Life_Demo_Project.Data
 
         public DbSet<Reply> Replies { get; set; }
 
+        public DbSet<Tag> Tags { get; set; }
 
+        public DbSet<PostTags> PostTags { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -56,6 +58,9 @@ namespace _01_Life_Demo_Project.Data
                 .HasMany(u => u.Replies)
                 .WithOne(r => r.Author)
                 .HasForeignKey(r => r.AuthorId);
+
+            builder.Entity<PostTags>()
+                .HasKey(pt => new { pt.PostId, pt.TagId });
         }
     }
 }

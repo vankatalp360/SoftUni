@@ -23,18 +23,18 @@ namespace _01_Life_Demo_Project.Data.Models
 
         public int Id { get; set; }
         public string Username { get; set; }
-        public string Password { get; set; }
-        //{
-        //    get { return this.password; }
-        //    set
-        //    {
-        //        if (string.IsNullOrWhiteSpace(value))
-        //        {
-        //            throw new ArgumentException("Incorect password");
-        //        }
-        //        this.password = GetSHA1HashData(value);
-        //    }
-        //}
+        public string Password //{ get; set; }
+        {
+            get { return this.password; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Incorect password");
+                }
+                this.password = GetSHA1HashData(value);
+            }
+        }
 
         public ICollection<Post> Posts { get; set; } = new List<Post>();
 

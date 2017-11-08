@@ -54,6 +54,19 @@ namespace _01_Life_Demo_Project.Migrations
                     b.ToTable("Posts");
                 });
 
+            modelBuilder.Entity("_01_Life_Demo_Project.Data.Models.PostTags", b =>
+                {
+                    b.Property<int>("PostId");
+
+                    b.Property<int>("TagId");
+
+                    b.HasKey("PostId", "TagId");
+
+                    b.HasIndex("TagId");
+
+                    b.ToTable("PostTags");
+                });
+
             modelBuilder.Entity("_01_Life_Demo_Project.Data.Models.Reply", b =>
                 {
                     b.Property<int>("Id")
@@ -72,6 +85,18 @@ namespace _01_Life_Demo_Project.Migrations
                     b.HasIndex("PostId");
 
                     b.ToTable("Replies");
+                });
+
+            modelBuilder.Entity("_01_Life_Demo_Project.Data.Models.Tag", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("Name");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tags");
                 });
 
             modelBuilder.Entity("_01_Life_Demo_Project.Data.Models.User", b =>
@@ -98,6 +123,19 @@ namespace _01_Life_Demo_Project.Migrations
                     b.HasOne("_01_Life_Demo_Project.Data.Models.Category", "Category")
                         .WithMany("Posts")
                         .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("_01_Life_Demo_Project.Data.Models.PostTags", b =>
+                {
+                    b.HasOne("_01_Life_Demo_Project.Data.Models.Post", "Post")
+                        .WithMany("PostTags")
+                        .HasForeignKey("PostId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("_01_Life_Demo_Project.Data.Models.Tag", "Tag")
+                        .WithMany("PostTags")
+                        .HasForeignKey("TagId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 

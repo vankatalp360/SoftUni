@@ -16,7 +16,7 @@
 
             ResetDBContext(context);
 
-            //PrintResultWithSelect(context);
+            PrintResultWithSelect(context);
             //PrintResultWithInclude(context);
 
         }
@@ -39,7 +39,9 @@
                                     {
                                         r.Content,
                                         r.Author
-                                    })
+                                    }),
+                                    Tags = p.PostTags
+                                    .Select(pt=>pt.Tag.Name)
                                 })
                             });
             foreach (var c in categories)
@@ -50,12 +52,17 @@
                 {
                     Console.WriteLine($"Title: {p.Title}");
                     Console.WriteLine($"Content: {p.Content}");
-                    Console.WriteLine($"--- by: {p.Author.Username}");
+                    Console.WriteLine($"---Written by: {p.Author.Username}");
 
                     foreach (var r in p.Replies)
                     {
-                        Console.WriteLine($"Content:{r.Content} --by:{r.Author.Username}");
+                        Console.WriteLine($"---- Reply Content:{r.Content} --by:{r.Author.Username}");
                     }
+                    //foreach (var t in p.Tags)
+                    //{
+                    //    Console.WriteLine($"Tag:{t}");
+                    //}
+                    Console.WriteLine($"----Tags: {string.Join(" / ", p.Tags)}");
                 }
             }
         }
@@ -141,6 +148,26 @@
             };
 
             context.Replies.AddRange(replies);
+
+            var tags = new[]
+            {
+                new Tag("C#"),
+                new Tag("Java"),
+                new Tag("learn"),
+                new Tag("Basic")
+            };
+
+            context.Tags.AddRange(tags);
+
+            context.SaveChanges();
+
+            var postTags = new[]
+            {
+                new PostTags(){ PostId=1, TagId=1},
+                new PostTags(){ PostId=1, TagId=3}
+            };
+
+            context.PostTags.AddRange(postTags);
 
             context.SaveChanges();
         }

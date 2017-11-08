@@ -4,6 +4,9 @@
 
     public class PostTags
     {
+        public PostTags()
+        {
+        }
         public int PostId { get; set; }
         public Post Post { get; set; }
 

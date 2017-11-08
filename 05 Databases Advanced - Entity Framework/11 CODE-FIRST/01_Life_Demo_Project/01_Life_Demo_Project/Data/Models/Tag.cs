@@ -11,10 +11,8 @@
         {
             this.Name = name;
         }
-        public int Id;
-        public string Name;
-
-        public ICollection<Post> Post = new List<Post>();
+        public int Id { get; set; }
+        public string Name { get; set; }
 
         public ICollection<PostTags> PostTags { get; set; }
     }

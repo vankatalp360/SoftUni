@@ -39,5 +39,6 @@ namespace _01_Life_Demo_Project.Data.Models
 
         public ICollection<Reply> Replies { get; set; } = new List<Reply>();
 
+        public ICollection<PostTags> PostTags { get; set; }
     }
 }
