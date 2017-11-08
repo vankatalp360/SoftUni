@@ -16,29 +16,74 @@
 
             ResetDBContext(context);
 
+            //PrintResultWithSelect(context);
+            //PrintResultWithInclude(context);
+
+        }
+
+        private static void PrintResultWithSelect(ForumDbContent context)
+        {
+            var categories = context
+                            .Categories
+                            .Select(c => new
+                            {
+                                c.Name,
+                                Posts = c.Posts
+                                .Select(p => new
+                                {
+                                    p.Title,
+                                    p.Content,
+                                    p.Author,
+                                    Replies = p.Replies
+                                    .Select(r => new
+                                    {
+                                        r.Content,
+                                        r.Author
+                                    })
+                                })
+                            });
+            foreach (var c in categories)
+            {
+                Console.WriteLine($"{c.Name}");
+
+                foreach (var p in c.Posts)
+                {
+                    Console.WriteLine($"Title: {p.Title}");
+                    Console.WriteLine($"Content: {p.Content}");
+                    Console.WriteLine($"--- by: {p.Author.Username}");
+
+                    foreach (var r in p.Replies)
+                    {
+                        Console.WriteLine($"Content:{r.Content} --by:{r.Author.Username}");
+                    }
+                }
+            }
+        }
+
+        private static void PrintResultWithInclude(ForumDbContent context)
+        {
             var categories = context
                 .Categories
                 .Include(c => c.Posts)
                 .ThenInclude(p => p.Replies)
                 .ThenInclude(r => r.Author)
                 .ToList();
-            foreach(var c in categories)
+            foreach (var c in categories)
             {
                 Console.WriteLine($"{c.Name}");
 
-                foreach(var p in c.Posts)
+                foreach (var p in c.Posts)
                 {
                     Console.WriteLine($"Title: {p.Title}");
                     Console.WriteLine($"Content: {p.Content}");
                     Console.WriteLine($"--- by: {p.Author.Username}");
 
-                    foreach(var r in p.Replies)
+                    foreach (var r in p.Replies)
                     {
                         Console.WriteLine($"Content:{r.Content} --by:{r.Author.Username}");
                     }
                 }
             }
-
         }
 
         private static void ResetDBContext(ForumDbContent context)
@@ -63,6 +108,8 @@
             };
 
             context.Users.AddRange(users);
+
+            context.SaveChanges();
 
             var categories = new[]
             {
