@@ -1,0 +1,13 @@
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.deps.json
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.runtimeconfig.json
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.runtimeconfig.dev.json
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.dll
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\obj\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.csproj.CoreCompileInputs.cache
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\obj\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.AssemblyInfoInputs.cache
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\obj\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.AssemblyInfo.cs
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.pdb
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\obj\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.csprojResolveAssemblyReference.cache
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\obj\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.dll
+c:\users\stany\source\repos\P03_FootballBetting\P03_StartUp_FootballBetting\obj\Debug\netcoreapp2.0\P03_StartUp_FootballBetting.pdb
