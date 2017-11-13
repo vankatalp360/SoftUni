@@ -1,0 +1,15 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P01_HospitalDatabase\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb

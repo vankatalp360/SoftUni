@@ -1,0 +1,15 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_StartUp.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_StartUp.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_StartUp.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_StartUp.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_StartUp.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\obj\Debug\netcoreapp2.0\P03_StartUp.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\obj\Debug\netcoreapp2.0\P03_StartUp.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\obj\Debug\netcoreapp2.0\P03_StartUp.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\obj\Debug\netcoreapp2.0\P03_StartUp.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\obj\Debug\netcoreapp2.0\P03_StartUp.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\obj\Debug\netcoreapp2.0\P03_StartUp.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_SaleDatabaseInitializer.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\12 EXERCISE CODE-FIRST\P03_SalesDatabase\P03_StartUp\bin\Debug\netcoreapp2.0\P03_SaleDatabaseInitializer.pdb
