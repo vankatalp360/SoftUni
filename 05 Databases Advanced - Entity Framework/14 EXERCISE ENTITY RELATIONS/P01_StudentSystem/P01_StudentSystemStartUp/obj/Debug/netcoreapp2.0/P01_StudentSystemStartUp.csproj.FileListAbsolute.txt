@@ -1,0 +1,13 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\obj\Debug\netcoreapp2.0\P01_StudentSystemStartUp.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\obj\Debug\netcoreapp2.0\P01_StudentSystemStartUp.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\obj\Debug\netcoreapp2.0\P01_StudentSystemStartUp.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\obj\Debug\netcoreapp2.0\P01_StudentSystemStartUp.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemStartUp.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemStartUp.runtimeconfig.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemStartUp.runtimeconfig.dev.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemStartUp.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystemStartUp.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\obj\Debug\netcoreapp2.0\P01_StudentSystemStartUp.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P01_StudentSystem\P01_StudentSystemStartUp\obj\Debug\netcoreapp2.0\P01_StudentSystemStartUp.pdb

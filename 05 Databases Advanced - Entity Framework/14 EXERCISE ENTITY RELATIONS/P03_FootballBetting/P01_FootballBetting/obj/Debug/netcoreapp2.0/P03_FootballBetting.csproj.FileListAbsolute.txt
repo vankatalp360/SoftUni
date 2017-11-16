@@ -1,9 +1,0 @@
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.deps.json
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csproj.CoreCompileInputs.cache
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfoInputs.cache
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfo.cs
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.dll
-D:\SoftUni\05 Databases Advanced - Entity Framework\14 EXERCISE ENTITY RELATIONS\P03_FootballBetting\P01_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.pdb
