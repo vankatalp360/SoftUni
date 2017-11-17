@@ -3420,11 +3420,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_StartUp_FootballBetting\\P03_StartUp_FootballBetting.csproj",
+      "projectUniqueName": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_StartUp_FootballBetting\\P03_StartUp_FootballBetting.csproj",
       "projectName": "P03_StartUp_FootballBetting",
-      "projectPath": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_StartUp_FootballBetting\\P03_StartUp_FootballBetting.csproj",
+      "projectPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_StartUp_FootballBetting\\P03_StartUp_FootballBetting.csproj",
       "packagesPath": "C:\\Users\\stany\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_StartUp_FootballBetting\\obj\\",
+      "outputPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_StartUp_FootballBetting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3443,8 +3443,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj": {
-              "projectPath": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj"
+            "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj": {
+              "projectPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj"
             }
           }
         }

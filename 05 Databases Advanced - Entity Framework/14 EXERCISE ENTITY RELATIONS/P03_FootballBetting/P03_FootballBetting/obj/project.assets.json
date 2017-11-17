@@ -3401,11 +3401,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj",
+      "projectUniqueName": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj",
       "projectName": "P03_FootballBetting",
-      "projectPath": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj",
+      "projectPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_FootballBetting\\P03_FootballBetting.csproj",
       "packagesPath": "C:\\Users\\stany\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\stany\\source\\repos\\P03_FootballBetting\\P03_FootballBetting\\obj\\",
+      "outputPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\14 EXERCISE ENTITY RELATIONS\\P03_FootballBetting\\P03_FootballBetting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

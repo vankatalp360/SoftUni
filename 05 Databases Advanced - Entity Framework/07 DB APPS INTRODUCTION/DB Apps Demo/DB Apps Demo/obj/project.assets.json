@@ -1102,11 +1102,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "d:\\users\\stany\\source\\repos\\DB Apps Demo\\DB Apps Demo\\DB Apps Demo.csproj",
+      "projectUniqueName": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\07 DB APPS INTRODUCTION\\DB Apps Demo\\DB Apps Demo\\DB Apps Demo.csproj",
       "projectName": "DB Apps Demo",
-      "projectPath": "d:\\users\\stany\\source\\repos\\DB Apps Demo\\DB Apps Demo\\DB Apps Demo.csproj",
+      "projectPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\07 DB APPS INTRODUCTION\\DB Apps Demo\\DB Apps Demo\\DB Apps Demo.csproj",
       "packagesPath": "C:\\Users\\stany\\.nuget\\packages\\",
-      "outputPath": "d:\\users\\stany\\source\\repos\\DB Apps Demo\\DB Apps Demo\\obj\\",
+      "outputPath": "D:\\SoftUni\\05 Databases Advanced - Entity Framework\\07 DB APPS INTRODUCTION\\DB Apps Demo\\DB Apps Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
