@@ -12,13 +12,46 @@
         {
             System.Threading.Thread.CurrentThread.CurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
 
-            DatabaseInitializer.ResetDatabase();
+            int orderId;
 
-            ManualSeed.ReadDetails();
+            while (true)
+            {
+                Console.WriteLine(new string('-', 15));
+                Console.WriteLine("///Write 'no digit' to exit.///");
+                Console.WriteLine(new string('-', 15));
+                Console.WriteLine("Please choose from following options:");
+                Console.WriteLine("1. DatabaseInitializer(ResetDatabase) - use '1';");
+                Console.WriteLine("2. ManualSeed - use '2';");
+                Console.WriteLine("3. Add Payment Method - use '3';");
+                Console.WriteLine("4. Pay User Bills - use '4';");
+                Console.WriteLine(new string('-', 15));
 
-            UserPaymentMethods.ReadDetails();
+                if (!int.TryParse(Console.ReadLine(), out orderId))
+                {
+                    break;
+                }
+                Console.Clear();
 
-            PayBills.ReadDetails();
+                switch (orderId)
+                {
+                    case 1:
+                        DatabaseInitializer.ResetDatabase();
+                        break;
+                    case 2:
+                        ManualSeed.ReadDetails();
+                        break;
+                    case 3:
+                        UserPaymentMethods.ReadDetails();
+                        break;
+                    case 4:
+                        PayBills.ReadDetails();
+                        break;
+                    default:
+                        Console.WriteLine("Incorect index. Try again.");
+                        break;
+                }
+                Console.Clear();
+            }           
         }
     }
 }

@@ -12,35 +12,20 @@
 
             PaymentMethodType type = ReadPaymentType();
 
-            int Id;
+            int toolId;
+            int userId;
 
             if (type == PaymentMethodType.BankAccount)
             {
-                Console.Write("Payment method bank accound Id:");
-                bool bankAccountId = int.TryParse(Console.ReadLine(), out Id);
+                toolId = ReadToolId();
 
-                if(!bankAccountId)
-                {
-                    throw new ArgumentException("Bank account Id should be digit.");
-                }
+                BankAccount bankAccount = FindBankAccountById(context, toolId);
 
-                var bankAccount = context.CreditCards.Find(Id);
+                userId = ReadUserId();
 
-                if (bankAccount == null)
-                {
-                    throw new ArgumentException($"Credit card with Id={Id} does not exist.");
-                }
+                User user = FindUserById(context,userId);
 
-                var bankAcc = (from p in context.PaymentMethods
-                               where p.BankAccountId == Id
-                               select p.Id).Count();
-
-                if(bankAcc!=0)
-                {
-                    throw new ArgumentException($"Payment method with bank account Id={Id} alredy exists.");
-                }
-
-                PaymentMethod paymentMethod = new PaymentMethod(type,Id, bankAccount);
+                PaymentMethod paymentMethod = new PaymentMethod(PaymentMethodType.BankAccount, userId, bankAccount);
 
                 context.PaymentMethods.Add(paymentMethod);
 
@@ -48,31 +33,16 @@
             }
             else if (type == PaymentMethodType.CreditCard)
             {
-                Console.Write("Payment method credit card Id:");
-                bool creditCardId = int.TryParse(Console.ReadLine(), out Id);
+                toolId = ReadToolId();
 
-                if (!creditCardId)
-                {
-                    throw new ArgumentException("Credit card Id should be digit.");
-                }
+                CreditCard creditCard = FindCreditCardById(context, toolId);
 
-                var creditCard = context.CreditCards.Find(Id);
 
-                if (creditCard == null)
-                {
-                    throw new ArgumentException($"Credit card with Id={Id} does not exist.");
-                }
+                userId = ReadUserId();
 
-                var pmCreditCard = (from p in context.PaymentMethods
-                               where p.CreditCardId == Id
-                               select p.Id).Count();
+                User user = FindUserById(context, userId);
 
-                if (pmCreditCard != 0)
-                {
-                    throw new ArgumentException($"Payment method with credit card Id={Id} alredy exists.");
-                }
-
-                PaymentMethod paymentMethod = new PaymentMethod(type, Id, creditCard);
+                PaymentMethod paymentMethod = new PaymentMethod(PaymentMethodType.CreditCard, userId, creditCard);
 
                 context.PaymentMethods.Add(paymentMethod);
 
@@ -80,9 +50,91 @@
             }
         }
 
+        private static User FindUserById(BillsPaymentSystemContext context, int userId)
+        {
+            var user = context.Users.Find(userId);
+
+            if (user == null)
+            {
+                throw new ArgumentException($"User with Id={userId} does not exist.");
+            }
+
+            return user;
+        }
+
+        private static CreditCard FindCreditCardById(BillsPaymentSystemContext context, int toolId)
+        {
+            var creditCard = context.CreditCards.Find(toolId);
+
+            if (creditCard == null)
+            {
+                throw new ArgumentException($"Credit card with Id={toolId} does not exist.");
+            }
+
+            var pmCreditCard = (from p in context.PaymentMethods
+                                where p.CreditCardId == toolId
+                                select p.Id).Count();
+
+            if (pmCreditCard != 0)
+            {
+                throw new ArgumentException($"Payment method with credit card Id={toolId} alredy exists.");
+            }
+
+            return creditCard;
+        }
+
+        private static BankAccount FindBankAccountById(BillsPaymentSystemContext context, int toolId)
+        {
+            var bankAccount = context.BankAccounts.Find(toolId);
+
+            if (bankAccount == null)
+            {
+                throw new ArgumentException($"Bank account with Id={toolId} does not exist.");
+            }
+
+            var bankAccCount = (from p in context.PaymentMethods
+                                where p.BankAccountId == toolId
+                                select p.Id).Count();
+
+            if (bankAccCount != 0)
+            {
+                throw new ArgumentException($"Payment method with bank account Id={toolId} alredy exists.");
+            }
+
+            return bankAccount;
+        }
+
+        private static int ReadUserId()
+        {
+            int userId;
+            Console.Write("User Id:");
+            bool Id = int.TryParse(Console.ReadLine(), out userId);
+
+            if (!Id)
+            {
+                throw new ArgumentException("User Id should be digit.");
+            }
+
+            return userId;
+        }
+
+        private static int ReadToolId()
+        {
+            int toolId;
+            Console.Write("Payment method Id:");
+            bool Id = int.TryParse(Console.ReadLine(), out toolId);
+
+            if (!Id)
+            {
+                throw new ArgumentException("Id should be digit.");
+            }
+
+            return toolId;
+        }
+
         private static PaymentMethodType ReadPaymentType()
         {
-            Console.Write("Payment method type:");
+            Console.WriteLine("Payment method type:");
             Console.WriteLine("1. BankAccount - use '1';");
             Console.WriteLine("2. Credit Card - use '2';");
             int typeId = int.Parse(Console.ReadLine());

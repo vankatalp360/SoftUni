@@ -48,7 +48,7 @@
                     var paymentMethod = new PaymentMethod
                     {
                         CreditCard = creditCard,
-                        Type = PaymentMethodType.BankAccount,
+                        Type = PaymentMethodType.CreditCard,
                         User = user
                     };
 
