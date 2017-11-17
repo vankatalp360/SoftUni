@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P01_BillsPaymentDatabaseInitializer\P01_BillsPaymentDatabaseInitializer.csproj" />
+    <ProjectReference Include="..\P01_BillsPaymentSystem.Data.Models\P01_BillsPaymentSystem.Data.Models.csproj" />
+    <ProjectReference Include="..\P01_BillsPaymentSystem.Data\P01_BillsPaymentSystem.Data.csproj" />
+    <ProjectReference Include="..\P01_BillsPayment_ManualSeed\P01_BillsPayment_ManualSeed.csproj" />
+    <ProjectReference Include="..\P01_BillsPayment_PayBills\P01_BillsPayment_PayBills.csproj" />
+    <ProjectReference Include="..\P01_BillsPayment_UserPaymentMethods\P01_BillsPayment_UserPaymentMethods.csproj" />
+  </ItemGroup>
+
+</Project>

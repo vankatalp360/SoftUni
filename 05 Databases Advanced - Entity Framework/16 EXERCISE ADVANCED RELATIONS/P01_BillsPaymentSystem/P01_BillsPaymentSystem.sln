@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_BillsPaymentSystem.Data.Models", "P01_BillsPaymentSystem.Data.Models\P01_BillsPaymentSystem.Data.Models.csproj", "{303D56DF-43AC-4EA6-A28F-66FF3707FB0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_BillsPaymentSystem.Data", "P01_BillsPaymentSystem.Data\P01_BillsPaymentSystem.Data.csproj", "{119F13B6-B741-4586-A924-895A8FEE69FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_BillsPaymentSystem.App", "P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App.csproj", "{F437C9F2-DAAC-4C0C-9EA2-F17108808C2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_BillsPaymentDatabaseInitializer", "P01_BillsPaymentDatabaseInitializer\P01_BillsPaymentDatabaseInitializer.csproj", "{0372B6D4-16E9-430F-9E97-D880DDCCC559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_BillsPayment_UserPaymentMethods", "P01_BillsPayment_UserPaymentMethods\P01_BillsPayment_UserPaymentMethods.csproj", "{B4AD2F2B-688E-40A2-9B47-B1BE9F64B249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_BillsPayment_ManualSeed", "P01_BillsPayment_ManualSeed\P01_BillsPayment_ManualSeed.csproj", "{0ED461AF-A1A7-44EA-8008-6AE1FC52A04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_BillsPayment_PayBills", "P01_BillsPayment_PayBills\P01_BillsPayment_PayBills.csproj", "{D5A6DFB7-3D1F-4F5E-9F70-DAF2E38BAF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303D56DF-43AC-4EA6-A28F-66FF3707FB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303D56DF-43AC-4EA6-A28F-66FF3707FB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303D56DF-43AC-4EA6-A28F-66FF3707FB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303D56DF-43AC-4EA6-A28F-66FF3707FB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119F13B6-B741-4586-A924-895A8FEE69FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119F13B6-B741-4586-A924-895A8FEE69FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119F13B6-B741-4586-A924-895A8FEE69FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119F13B6-B741-4586-A924-895A8FEE69FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F437C9F2-DAAC-4C0C-9EA2-F17108808C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F437C9F2-DAAC-4C0C-9EA2-F17108808C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F437C9F2-DAAC-4C0C-9EA2-F17108808C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F437C9F2-DAAC-4C0C-9EA2-F17108808C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0372B6D4-16E9-430F-9E97-D880DDCCC559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0372B6D4-16E9-430F-9E97-D880DDCCC559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0372B6D4-16E9-430F-9E97-D880DDCCC559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0372B6D4-16E9-430F-9E97-D880DDCCC559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4AD2F2B-688E-40A2-9B47-B1BE9F64B249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AD2F2B-688E-40A2-9B47-B1BE9F64B249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AD2F2B-688E-40A2-9B47-B1BE9F64B249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AD2F2B-688E-40A2-9B47-B1BE9F64B249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED461AF-A1A7-44EA-8008-6AE1FC52A04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED461AF-A1A7-44EA-8008-6AE1FC52A04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED461AF-A1A7-44EA-8008-6AE1FC52A04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED461AF-A1A7-44EA-8008-6AE1FC52A04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A6DFB7-3D1F-4F5E-9F70-DAF2E38BAF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A6DFB7-3D1F-4F5E-9F70-DAF2E38BAF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A6DFB7-3D1F-4F5E-9F70-DAF2E38BAF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A6DFB7-3D1F-4F5E-9F70-DAF2E38BAF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB6A1DB-4832-454D-8CCC-341A6206A8A2}
+	EndGlobalSection
+EndGlobal
