@@ -20,9 +20,9 @@
 
             var paymentMethods = context.PaymentMethods.Where(pm => pm.UserId == userId).ToArray();
 
-            if (paymentMethods == null)
+            if (paymentMethods.Count() == 0)
             {
-                throw new ArgumentException($"User with id {userId} not found!");
+                throw new ArgumentException($"User with id {userId} not found in payment methods!");
             }
 
             List<int> bankAccountIds = new List<int>();

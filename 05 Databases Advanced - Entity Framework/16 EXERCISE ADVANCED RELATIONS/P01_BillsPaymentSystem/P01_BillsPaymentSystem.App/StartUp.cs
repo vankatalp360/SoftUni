@@ -20,10 +20,10 @@
                 Console.WriteLine("///Write 'no digit' to exit.///");
                 Console.WriteLine(new string('-', 15));
                 Console.WriteLine("Please choose from following options:");
-                Console.WriteLine("1. DatabaseInitializer(ResetDatabase) - use '1';");
-                Console.WriteLine("2. ManualSeed - use '2';");
-                Console.WriteLine("3. Add Payment Method - use '3';");
-                Console.WriteLine("4. Pay User Bills - use '4';");
+                Console.WriteLine("1. Database Initializer (Note: It reset the database and seed it again!) - use '1';");
+                Console.WriteLine("2. Manual seed - use '2';");
+                Console.WriteLine("3. Read user payment methods - use '3';");
+                Console.WriteLine("4. Pay user bills - use '4';");
                 Console.WriteLine(new string('-', 15));
 
                 if (!int.TryParse(Console.ReadLine(), out orderId))
@@ -50,7 +50,6 @@
                         Console.WriteLine("Incorect index. Try again.");
                         break;
                 }
-                Console.Clear();
             }           
         }
     }
