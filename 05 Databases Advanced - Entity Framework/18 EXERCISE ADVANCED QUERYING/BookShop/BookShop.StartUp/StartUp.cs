@@ -28,7 +28,7 @@
 
                 //--1.Age Restriction
 
-                //string ageRestriction = Console.ReadLine().ToLower();
+                //string ageRestriction = Console.ReadLine();
 
                 //string ageRestrictionTitles = GetBooksByAgeRestriction(context, ageRestriction);
 
@@ -80,7 +80,7 @@
 
                 ////--8.Book Search
 
-                //string input = Console.ReadLine().ToLower();
+                //string input = Console.ReadLine();
 
                 //string bookTitlesContaining = GetBookTitlesContaining(context, input);
 
@@ -88,7 +88,7 @@
 
                 ////--9.Book Search by Author
 
-                //string input = Console.ReadLine().ToLower();
+                //string input = Console.ReadLine();
 
                 //string booksByAuthor = GetBooksByAuthor(context, input);
 
@@ -135,12 +135,17 @@
         public static int RemoveBooks(BookShopContext context)
         {
             var books = context.Books
-                .Where(b => b.Copies < 4200)
-                .ToArray();
+                                .Where(b => b.Copies < 4200)
+                                .ToList();
 
-            context.RemoveRange(books);
+            foreach (var book in books)
+            {
+                context.Books.Remove(book);
+            }
 
-            return context.SaveChanges();
+            context.SaveChanges();
+
+            return books.Count();
         }
 
         public static void IncreasePrices(BookShopContext context)
@@ -148,8 +153,8 @@
             var books = context.Books
                 .Where(x => x.ReleaseDate.Value.Year < 2010)
                 .ToArray();
-            
-            foreach(var book in books)
+
+            foreach (var book in books)
             {
                 book.Price += 5;
             }
@@ -179,7 +184,7 @@
                         .ToArray();
 
             //return string.Join(Environment.NewLine, categories.Select(x => $"--{x.CategoryName}" + string.Join(Environment.NewLine, x.CategoryBooks.Select(y => $"{y.Title} ({y.Year})"))));
-            return string.Join(Environment.NewLine, categories.Select(x => $"--{x.CategoryName}"+Environment.NewLine+ string.Join(Environment.NewLine, x.CategoryBooks.Select(y => $"{y.Title} ({y.Year})"))));
+            return string.Join(Environment.NewLine, categories.Select(x => $"--{x.CategoryName}" + Environment.NewLine + string.Join(Environment.NewLine, x.CategoryBooks.Select(y => $"{y.Title} ({y.Year})"))));
         }
 
         public static string GetTotalProfitByCategory(BookShopContext context)
@@ -223,7 +228,7 @@
         {
             string pattern = $@"^{input}.*$";
             var books = context.Books
-                .Where(b => Regex.Match(b.Author.LastName.ToLower(), pattern).Success)
+                .Where(b => Regex.IsMatch(b.Author.LastName, pattern,RegexOptions.IgnoreCase))
                 .OrderBy(b => b.BookId).Select(b => new
                 {
                     b.Title,
@@ -237,7 +242,7 @@
         public static string GetBookTitlesContaining(BookShopContext context, string input)
         {
             string pattern = $@"^.*{input}.*$";
-            var titles = context.Books.Where(b => Regex.Match(b.Title.ToLower(), pattern).Success).Select(b => b.Title).OrderBy(x => x).ToArray();
+            var titles = context.Books.Where(b => Regex.IsMatch(b.Title, pattern,RegexOptions.IgnoreCase)).Select(b => b.Title).OrderBy(x => x).ToArray();
 
             return string.Join(Environment.NewLine, titles);
         }
@@ -302,23 +307,7 @@
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string ageRestriction)
         {
-            int enumValue;
-            switch (ageRestriction)
-            {
-                case "minor":
-                    enumValue = 0;
-                    break;
-                case "teen":
-                    enumValue = 1;
-                    break;
-                case "adult":
-                    enumValue = 2;
-                    break;
-                default:
-                    enumValue = -1;
-                    break;
-            }
-            var titles = context.Books.Where(b => b.AgeRestriction == (AgeRestriction)enumValue).Select(b => b.Title).OrderBy(x => x).ToArray();
+            var titles = context.Books.Where(b => String.Equals(ageRestriction,b.AgeRestriction.ToString(), StringComparison.InvariantCultureIgnoreCase)).Select(b => b.Title).OrderBy(x => x).ToArray();
 
             return string.Join(Environment.NewLine, titles);
         }
