@@ -1,0 +1,9 @@
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\SoftUni\05 Databases Advanced - Entity Framework\20 EXERCISE BEST PRACTICES AND ARCHITECTURE\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb
