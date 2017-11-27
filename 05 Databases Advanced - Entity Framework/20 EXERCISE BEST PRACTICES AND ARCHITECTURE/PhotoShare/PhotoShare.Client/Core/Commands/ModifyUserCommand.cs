@@ -26,6 +26,12 @@
             }
 
             var username = data[0];
+
+            if (Session.User.Username != username)
+            {
+                throw new InvalidOperationException("Invalid credentials!");
+            }
+
             var property = data[1];
             var newValue = data[2];
 

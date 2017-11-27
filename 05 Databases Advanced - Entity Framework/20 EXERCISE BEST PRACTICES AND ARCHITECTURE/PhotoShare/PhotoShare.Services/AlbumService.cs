@@ -6,7 +6,7 @@
     using PhotoShare.Data;
     using System.Linq;
     using System;
-    
+
     public class AlbumService : IAlbumService
     {
         private readonly PhotoShareContext context;
@@ -24,17 +24,46 @@
 
             Color color = FindColor(BgColor);
 
-            List<Tag> tags = FindTagList(tagNames);
+            List<AlbumTag> albumTags = CreateAlbumTags(tagNames, album);
 
-            Album currentAlbum = CreateAlbum(albumTitle, album, color);
+            Album currentAlbum = CreateAlbum(albumTitle, album, color, albumTags);            
 
-            CreateAlbumTags(currentAlbum, tags);
+            context.SaveChanges();
+            
+            AlbumRole albumRole = new AlbumRole()
+            {
+                Album = currentAlbum,
+                User=user,
+                Role=Role.Owner
+            };
+
+            user.AlbumRoles.Add(albumRole);
+
+            context.SaveChanges();
 
             return $"Album {albumTitle} successfully created!";
         }
 
-        private void CreateAlbumTags(Album album, List<Tag> tags)
+        private Album CreateAlbum(string albumTitle, Album album, Color color, List<AlbumTag> albumTags)
         {
+            album = new Album
+            {
+                Name = albumTitle,
+                BackgroundColor = color,
+                AlbumTags= albumTags
+            };
+
+            context.Albums.Add(album);
+
+            context.SaveChanges();
+
+            return album;
+        }
+
+        private List<AlbumTag> CreateAlbumTags(List<string> tagNames, Album album)
+        {
+            List<Tag> tags = FindTagList(tagNames);
+
             var albumTags = new List<AlbumTag>();
 
             foreach (var tag in tags)
@@ -48,47 +77,27 @@
                 albumTags.Add(albumTag);
             }
 
-            context.AlbumTags.AddRange(albumTags);
-
-            context.SaveChanges();
-        }
-
-        private Album CreateAlbum(string albumTitle, Album album, Color color)
-        {
-            album = new Album
-            {
-                Name = albumTitle,
-                BackgroundColor = color
-            };
-
-            context.Albums.Add(album);
-
-            context.SaveChanges();
-
-            return album;
+            return albumTags;
         }
 
         private List<Tag> FindTagList(List<string> tagNames)
         {
             List<Tag> tags = context.Tags.Where(t => tagNames.Contains(t.Name.Substring(1))).ToList();
 
-            if (tags.Count == 0)
-            {
-                throw new ArgumentException("Invalid tags!");
-            }
+            //if (tags.Count == 0)
+            //{
+            //    throw new ArgumentException("Invalid tags!");
+            //}
 
             return tags;
         }
 
         private static Color FindColor(string BgColor)
         {
-            Color color;
-            bool hasColor = Enum.TryParse<Color>(BgColor, true, out color);
-
-            if (!hasColor)
-            {
+            if (!Enum.IsDefined(typeof(Color), BgColor))
                 throw new ArgumentException($"Color {BgColor} not found!");
-            }
+
+            var color = Enum.Parse<Color>(BgColor);
 
             return color;
         }

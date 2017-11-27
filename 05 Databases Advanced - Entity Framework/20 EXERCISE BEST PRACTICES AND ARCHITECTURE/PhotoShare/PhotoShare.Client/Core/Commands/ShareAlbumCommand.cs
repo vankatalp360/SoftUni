@@ -39,7 +39,7 @@
             string username = data[1];
             string permission = data[2];
             
-            return albumRoleService.ShareAlbum(albumId, username, permission);
+            return albumRoleService.ShareAlbum(albumId, username, permission , Session.User.Username);
         }
     }
 }

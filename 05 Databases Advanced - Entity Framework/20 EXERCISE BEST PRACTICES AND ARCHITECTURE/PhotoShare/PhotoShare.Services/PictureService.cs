@@ -29,15 +29,13 @@
                 throw new InvalidOperationException($"Invalid credentials!");
             }
 
-            var picture = new Picture()
+            album.Pictures.Add(new Picture()
             {
                 Title = pictureTitle,
                 Path = pictureFilePath,
                 Album = album,
                 UserProfile = user
-            };
-
-            context.Pictures.Add(picture);
+            });
 
             context.SaveChanges();
 

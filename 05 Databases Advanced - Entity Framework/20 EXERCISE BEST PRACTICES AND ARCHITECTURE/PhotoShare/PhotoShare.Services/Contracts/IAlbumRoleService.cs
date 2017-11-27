@@ -4,6 +4,6 @@
 
     public interface IAlbumRoleService
     {
-        string ShareAlbum(int albumId, string username, string permission);
+        string ShareAlbum(int albumId, string username, string permission , string currentUserName);
     }
 }

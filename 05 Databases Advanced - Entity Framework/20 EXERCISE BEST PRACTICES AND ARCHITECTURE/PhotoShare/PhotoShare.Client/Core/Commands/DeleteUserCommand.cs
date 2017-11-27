@@ -4,7 +4,7 @@
     using PhotoShare.Services.Contracts;
     using System;
 
-    public class DeleteUserCommand:ICommand
+    public class DeleteUserCommand : ICommand
     {
         private readonly IUserService userService;
 
@@ -13,7 +13,7 @@
             this.userService = userService;
         }
 
-        public string Execute(string command , string[] data)
+        public string Execute(string command, string[] data)
         {
             if (Session.User == null)
             {
@@ -27,7 +27,7 @@
 
             var username = data[0];
 
-            if(username!=Session.User.Username)
+            if (username != Session.User.Username)
             {
                 throw new InvalidOperationException($"Invalid credentials!");
             }

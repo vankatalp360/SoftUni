@@ -120,6 +120,7 @@
             {
                 throw new ArgumentException($"User {username} not found!");
             }
+
             string prop = ModifyUser(property, newValue, user);
 
             context.SaveChanges();

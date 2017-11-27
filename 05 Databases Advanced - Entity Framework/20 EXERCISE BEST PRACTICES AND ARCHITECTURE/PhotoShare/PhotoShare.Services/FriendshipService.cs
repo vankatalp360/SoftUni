@@ -24,23 +24,9 @@
 
             var friend = GetUser(friendUsername);
 
-            UserExists(friendUsername, friend);
+            UserExists(friendUsername, friend);            
 
-            bool userAlreadyAddedFriend = user.FriendsAdded.Any(u => u.Friend == friend);
-
-            bool friendAlreadyAddedUser = friend.FriendsAdded.Any(u => u.Friend == user);
-
-            if (friendAlreadyAddedUser)
-            {
-                if (userAlreadyAddedFriend)
-                {
-                    throw new InvalidOperationException($"{friendUsername} is already a friend to {username}");
-                }
-            }
-            else
-            {
-                throw new InvalidOperationException($"{friendUsername} has not added {username} as a friend");
-            }
+            ValidationFriendRelationShip(user, friend);
 
             var userFriendShep = new Friendship
             {
@@ -48,19 +34,30 @@
                 Friend = friend
             };
 
-            var friendFriendShep = new Friendship
-            {
-                User = friend,
-                Friend = user
-            };
-
-            user.AddedAsFriendBy.Add(friendFriendShep);
-
             user.FriendsAdded.Add(userFriendShep);
 
             context.SaveChanges();
 
             return $"{username} accepted {friendUsername} as a friend";
+        }
+
+        private static void ValidationFriendRelationShip(User user , User friend)
+        {
+            bool userAlreadyAddedFriend = user.FriendsAdded.Any(u => u.Friend == friend);
+
+            bool friendAlreadyAddedUser = friend.FriendsAdded.Any(u => u.Friend == user);
+
+            if (!friendAlreadyAddedUser)
+            {
+                throw new InvalidOperationException($"{friend.Username} has not added {user.Username} as a friend");
+            }
+            else
+            {
+                if (userAlreadyAddedFriend)
+                {
+                    throw new InvalidOperationException($"{friend.Username} is already a friend to {user.Username}");
+                }
+            }
         }
 
         public string AddFriend(string username, string friendUsername)
@@ -102,13 +99,7 @@
                 Friend = friend
             };
 
-            var friendFriendShep = new Friendship
-            {
-                User = friend,
-                Friend = user
-            };
-
-            friend.AddedAsFriendBy.Add(friendFriendShep);
+            friend.AddedAsFriendBy.Add(userFriendShep);
 
             user.FriendsAdded.Add(userFriendShep);
 

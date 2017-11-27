@@ -27,6 +27,12 @@
             }
 
             string username = data[0];
+
+            if (username != Session.User.Username)
+            {
+                throw new InvalidOperationException($"Invalid credentials!");
+            }
+
             string friendUsername = data[1];
 
             return friendshipService.AddFriend(username, friendUsername);
